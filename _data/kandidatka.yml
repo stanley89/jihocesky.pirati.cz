@@ -15,7 +15,7 @@
   member: Piráti
   bio: neco
   profilelink: https://www.pirati.cz/lide/lukas_kolarik
-  photo: https://www.pirati.cz/_media/lide/img_7362.jpg?w=200
+  photo: /assets/img/people/lukas_kolarik.jpg
 -
   name: Bc. Jan Novák
   age: 25
@@ -24,7 +24,7 @@
   member: Piráti
   bio: neco
   profilelink: https://www.pirati.cz/lide/jan_novak
-  photo: https://www.pirati.cz/_media/lide/jan_novak.jpg?w=200
+  photo: /assets/img/people/jan_novak.jpg
 -
   name: Ljuba Poláková
   age: 39
@@ -33,7 +33,7 @@
   member: Piráti
   bio: neco
   profilelink: https://www.pirati.cz/lide/ljuba_polakova
-  photo: https://www.pirati.cz/_media/lide/ljuba_polakova.jpg?w=200
+  photo: /assets/img/people/ljuba_polakova.jpg
 -
   name: Martin Brož
   age: 34
@@ -50,17 +50,17 @@
   town: Týn nad Vltavou
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/lukas_kolarik
-  photo: https://www.pirati.cz/_media/lide/img_7362.jpg?w=200
+  profilelink: https://www.pirati.cz/lide/simon_kostadinov
+  photo: /assets/img/people/simon.jpg
 -
   name: Ing. Martin Kákona
   age: 49
   work: Vědecký pracovník, komunální zastupitel
   town: Soběslav
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/lukas_kolarik
-  photo: https://www.pirati.cz/_media/lide/img_7362.jpg?w=200
+  profilelink: http://pirati.sobeslav.cz/profil-martin-kakona-1/
+  photo: /assets/img/people/martin_kakona.jpg
 -
   name: Romana Klimešová
   age: 43
@@ -68,8 +68,8 @@
   town: České Budějovice
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/lukas_kolarik
-  photo: https://www.pirati.cz/_media/lide/img_7362.jpg?w=200
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Mgr. Renata Žďárková
   age: 48
@@ -77,8 +77,8 @@
   town: České Budějovice
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/lukas_kolarik
-  photo: https://www.pirati.cz/_media/lide/img_7362.jpg?w=200
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Ivo Vlasatý
   age: 25
@@ -86,8 +86,8 @@
   town: České Budějovice
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/lukas_kolarik
-  photo: https://www.pirati.cz/_media/lide/img_7362.jpg?w=200
+  profilelink: https://www.pirati.cz/lide/ivo_vlasaty
+  photo: /assets/img/people/ivo_vlasaty.jpg
 -
   name: Mgr. Václav Klecanda
   age: 32
@@ -104,8 +104,8 @@
   town: Milevsko
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Jindra Matlachová
   age: 48
@@ -113,8 +113,8 @@
   town: Tábor
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink: https://www.pirati.cz/lide/jindra_matlachova
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Petr Steinbauer
   age: 35
@@ -122,8 +122,8 @@
   town: Trhové Sviny
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink: https://www.pirati.cz/lide/petr_steinbauer
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Tomáš Ďurčo
   age: 27
@@ -131,8 +131,8 @@
   town: Deštná u Jindřichova Hradce
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink: https://www.pirati.cz/lide/tomas_durco
+  photo: https://www.pirati.cz/_media/lide/tomas_durco.jpg?w=200
 -
   name: Bc. Jana Rohová
   age: 29
@@ -140,8 +140,8 @@
   town: Strakonice
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink: https://www.pirati.cz/lide/jana_rohova
+  photo: https://www.pirati.cz/_media/lide/jana_rohova.jpg?w=300
 -
   name: Zuzana Drázdová
   age: 19
@@ -149,17 +149,17 @@
   town: Pištín
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink: https://www.pirati.cz/lide/zuzana_drazdova
+  photo: /assets/img/people/zuzana_drazdova.jpg
 -
   name: Ing. arch. Jan Kodat
   age: 43
   work: Architekt
   town: Soběslav
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink: http://pirati.sobeslav.cz/profil-ing-arch-jan-kodat-14/
+  photo: http://pirati.sobeslav.cz/wp-content/uploads/2014/09/profil_kodat_civil.jpg
 -
   name: Bc. Josef Krajc
   age: 27
@@ -167,53 +167,53 @@
   town: Protivín
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink: https://www.pirati.cz/lide/josef_krajc
+  photo: https://www.pirati.cz/_media/lide/josef_krajc.jpg?w=350
 -
   name: DiS. Martin Mazuch
   age: 30
   work: Kameraman, střihač
   town: Katovice
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Tomáš Novák
   age: 48
   work: IT specialista
   town: Týn nad Vltavou
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Aleš Vejvoda
   age: 32
   work: Technik v automobilovém průmyslu
   town: Strakonice
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Ing. Petr Král
   age: 67
   work: IT specialista
   town: Soběslav
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink: http://ingpetrkral.cz/
+  photo: /assets/img/people/petr_kral.jpg
 -
   name: Petr Čáp
   age: 35
   work: Manager
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Petr Soušek
   age: 27
@@ -228,7 +228,7 @@
   age: 32
   work: TV technik
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/lide/filip_houdek
   photo: https://www.pirati.cz/_media/lide/filip_houdek.jpg?w=300
@@ -248,23 +248,22 @@
   town: České Budějovice
   member: Piráti
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Petr Horák
   age: 30
   work: Policista
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Ivo Voříšek
   age: 51
   work: Podnikatel
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/lide/ivo_vorisek
   photo: https://www.pirati.cz/_media/lide/ivo_vorisek.jpg?w=300
@@ -282,7 +281,7 @@
   age: 54
   work: Hasič
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/lide/vaclav_lid
   photo: https://www.pirati.cz/_media/lide/vaclav_lid.jpg?w=300
@@ -291,7 +290,7 @@
   age: 24
   work: Student vysoké školy
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/lide/radek_onysko
   photo: https://www.pirati.cz/_media/lide/radek_onysko.jpg?w=300
@@ -300,7 +299,7 @@
   age: 30
   work: Galvanizér
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/lide/martin_semecky
   photo: https://www.pirati.cz/_media/lide/martin_semecky.jpg?w=300
@@ -309,37 +308,37 @@
   age: 21
   work: IT specialista
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/jaroslav_buzek
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Vojtěch Pešička
   age: 25
   work: Montážní technik
   town: Milevsko
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Václav Melcer
   age: 77
   work: Konstruktér nástrojař
   town: Soběslav
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink: http://pirati.sobeslav.cz/vlado-melcer/
+  photo: http://pirati.sobeslav.cz/wp-content/uploads/2016/07/melcer.jpg
 -
   name: Zdeněk Žolták
   age: 55
   work: Pracovník sociálních služeb
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Irena Frnková
   age: 22
@@ -354,43 +353,43 @@
   age: 42
   work: Přepážková pracovnice
   town: České Budějovice
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Martin Mareda
   age: 40
   work: Adiktolog
   town: Tábor
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Martin Kučera
   age: 44
   work: Elektromechanik
   town: Tábor
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Dagmar Pekáriková
   age: 68
   work: Redaktorka
   town: Soběslav
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink: http://pirati.sobeslav.cz/profil-dagmar-pekarikova-17/
+  photo: http://pirati.sobeslav.cz/wp-content/uploads/2014/08/profil_pekarikova_civil.jpg
 -
   name: Pavel Záhorský
   age: 30
   work: Policista
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/lide/pavel_zahorsky
   photo: https://www.pirati.cz/_media/lide/pavel_zahorsky.jpg?w=300
@@ -399,17 +398,16 @@
   age: 35
   work: Lékařka
   town: České Budějovice
-  member: bez PP
+  member: Nezávislý
   bio: neco
-  profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Jan Vávra
   age: 21
   work: Skladník
   town: Písek
-  member: bez PP
+  member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/lide/jan_vavra
   photo: https://www.pirati.cz/_media/lide/jan_vavra.jpg?w=300
-  

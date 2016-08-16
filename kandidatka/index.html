@@ -21,8 +21,8 @@ keywords: volby, jihočeši, politika, kandidátka
         <p>
           {{ item.work }}</br>
           {{ item.town }}</br>
-          {{ item.member }}, ({{ item.age }} let)</br>
-          <a href="{{ item.profilelink }}">Profil</a>
+          {{ item.member }} ({{ item.age }} let)</br>
+          {% if item.profilelink %}<a href="{{ item.profilelink }}">Profil</a>{% endif %}
         </p>
       </div>
     </div>
