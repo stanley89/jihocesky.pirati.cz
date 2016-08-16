@@ -13,7 +13,9 @@ keywords: volby, jihočeši, politika, kandidátka
     <div class="media-object">
       <div class="media-object-section">
         <div class="thumbnail">
+          {% if item.profilelink %}<a href="{{ item.profilelink }}">{% endif %}
           <img src="{{ item.photo }}" alt="fotka {{ item.name }}" class="people img-responsive" />
+          {% if item.profilelink %}</a>{% endif %}
         </div>
       </div>
       <div class="media-object-section">
