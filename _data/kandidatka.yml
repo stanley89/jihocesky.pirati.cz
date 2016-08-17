@@ -6,7 +6,7 @@
   member: Piráti
   bio: neco
   profilelink: https://www.pirati.cz/lide/michal_horak
-  photo: https://www.pirati.cz/_media/lide/img_1127.jpg?w=300
+  photo: /assets/img/people/michal_horak.jpg
 -
   name: Lukáš Kolářík
   age: 32
@@ -69,7 +69,7 @@
   member: Piráti
   bio: neco
   profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/romana_klimesova.jpg
 -
   name: Mgr. Renata Žďárková
   age: 48
@@ -78,7 +78,7 @@
   member: Piráti
   bio: neco
   profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/renata_zdarkova.jpg
 -
   name: Ivo Vlasatý
   age: 25
@@ -170,6 +170,15 @@
   profilelink: https://www.pirati.cz/lide/josef_krajc
   photo: https://www.pirati.cz/_media/lide/josef_krajc.jpg?w=350
 -
+  name: Luboš Pekárik
+  age: 39
+  work: Pracovník ostrahy
+  town: Soběslav
+  member: Nezávislý
+  bio: neco
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
+-
   name: Martin Mazuch, DiS.
   age: 30
   work: Kameraman, střihač
@@ -185,8 +194,8 @@
   town: Týn nad Vltavou
   member: Nezávislý
   bio: neco
-  profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  profilelink: https://www.pirati.cz/lide/tomas_novak
+  photo: /assets/img/people/tomas_novak.jpg
 -
   name: Aleš Vejvoda
   age: 32
@@ -248,7 +257,7 @@
   town: České Budějovice
   member: Piráti
   bio: neco
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/martin_hrdlicka.jpg
 -
   name: Petr Horák
   age: 30
@@ -348,7 +357,7 @@
   bio: neco
   profilelink: https://www.pirati.cz/lide/irena_frnkova
   photo: https://www.pirati.cz/_media/lide/irena_frnkova.jpg?w=300
-
+-
   name: Petra Klímová
   age: 42
   work: Přepážková pracovnice
@@ -374,7 +383,7 @@
   member: Nezávislý
   bio: neco
   profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/martin_kucera.jpg
 -
   name: Dagmar Pekáriková
   age: 68
@@ -411,3 +420,75 @@
   bio: neco
   profilelink: https://www.pirati.cz/lide/jan_vavra
   photo: https://www.pirati.cz/_media/lide/jan_vavra.jpg?w=300
+-
+  name: Erika Kuruová
+  age: 39
+  work: Pracovnice ve výrobě
+  town: Písek
+  member: Nezávislý
+  bio: neco
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
+-
+  name: Stanislav Slepička
+  age: 30
+  work: Podnikatel
+  town: Albrechtice nad Vltavou
+  member: Nezávislý
+  bio: neco
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
+-
+  name: Dominik Vlček
+  age: 23
+  work: Podnikatel
+  town: Albrechtice nad Vltavou
+  member: Nezávislý
+  bio: neco
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
+-
+  name: Lucie Nejedlá
+  age: 24
+  work: Grafička
+  town: Písek
+  member: Nezávislý
+  bio: neco
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
+-
+  name: Barbora Chválová
+  age: 18
+  work: Studentka
+  town: Písek
+  member: Nezávislý
+  bio: neco
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
+-
+  name: Robin Michalec
+  age: 27
+  work: OSVČ - obkladač
+  town: Všemyslice
+  member: Nezávislý
+  bio: neco
+  profilelink:
+  photo: /assets/img/people/robin_michalec.jpg
+-
+  name: Miroslav Pokorný
+  age: 50
+  work: Ředitel divadla
+  town: Písek
+  member: Nezávislý
+  bio: neco
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
+-
+  name: Luděk Blaha
+  age: 59
+  work: Učitel
+  town: Písek
+  member: Piráti
+  bio: neco
+  profilelink:
+  photo: http://www.sliquesmaveriques.net/mask.png
