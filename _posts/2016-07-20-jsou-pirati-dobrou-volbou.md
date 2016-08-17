@@ -3,7 +3,7 @@ layout: blog
 category: blog
 tags: volby
 title: Jsou Piráti pro Jihočeský kraj tou správnou volbou?
-image: /assets/img/posts/pirlisty-franta-filip-2016.jpg
+image: /assets/img/people/crew.jpg
 author: Lukáš Kolařík
 ---
 
