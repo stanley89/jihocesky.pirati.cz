@@ -221,7 +221,7 @@
   town: Písek
   member: Nezávislý
   bio: neco
-  profilelink:
+  profilelink: https://www.pirati.cz/cap_petr
   photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Petr Soušek
@@ -265,7 +265,7 @@
   town: Písek
   member: Nezávislý
   bio: neco
-  profilelink:
+  profilelink: https://www.pirati.cz/lide/petr_horak
   photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Ivo Voříšek
@@ -328,7 +328,7 @@
   town: Milevsko
   member: Nezávislý
   bio: neco
-  profilelink:
+  profilelink: https://www.pirati.cz/vojta_pesicka
   photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Václav Melcer
@@ -427,8 +427,8 @@
   town: Písek
   member: Nezávislý
   bio: neco
-  profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  profilelink: https://www.pirati.cz/lide/erika_kuruova
+  photo: https://www.pirati.cz/_media/lide/erika_kuruova.jpg?w=300
 -
   name: Stanislav Slepička
   age: 30
@@ -481,7 +481,7 @@
   town: Písek
   member: Nezávislý
   bio: neco
-  profilelink:
+  profilelink: https://www.pirati.cz/miroslav_pokorny
   photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Luděk Blaha
@@ -491,4 +491,4 @@
   member: Piráti
   bio: neco
   profilelink: https://www.pirati.cz/lide/ludek_blaha
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: https://www.pirati.cz/_media/lide/ludek_blaha.jpg?w=300
