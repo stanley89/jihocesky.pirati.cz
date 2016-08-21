@@ -96,7 +96,7 @@
   member: Piráti
   bio: neco
   profilelink: https://www.pirati.cz/lide/vaclav_klecanda
-  photo: https://www.pirati.cz/_media/lide/vaclav_klecanda.jpg?w=300
+  photo: /assets/img/people/vaclav_klecanda.png
 -
   name: Michal Reiniš
   age: 44
@@ -377,7 +377,7 @@
   photo: http://www.sliquesmaveriques.net/mask.png
 -
   name: Martin Kučera
-  age: 44
+  age: 42
   work: Elektromechanik
   town: Tábor
   member: Nezávislý
@@ -472,7 +472,7 @@
   town: Všemyslice
   member: Nezávislý
   bio: neco
-  profilelink:
+  profilelink: https://www.pirati.cz/lide/robin_michalec
   photo: /assets/img/people/robin_michalec.jpg
 -
   name: Miroslav Pokorný
