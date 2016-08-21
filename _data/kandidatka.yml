@@ -320,7 +320,7 @@
   member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/jaroslav_buzek
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/jaroslav_buzek.jpg
 -
   name: Vojtěch Pešička
   age: 25
@@ -329,7 +329,7 @@
   member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/vojta_pesicka
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/vojtech_psenicka.jpg
 -
   name: Václav Melcer
   age: 77
@@ -347,7 +347,7 @@
   member: Nezávislý
   bio: neco
   profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/zdenek_zoltak.jpg
 -
   name: Irena Frnková
   age: 22
@@ -437,7 +437,7 @@
   member: Nezávislý
   bio: neco
   profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/stanislav_slepicka.jpg
 -
   name: Dominik Vlček
   age: 23
@@ -446,7 +446,7 @@
   member: Nezávislý
   bio: neco
   profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/dominik_vlcek.jpg
 -
   name: Lucie Nejedlá
   age: 24
@@ -455,7 +455,7 @@
   member: Nezávislý
   bio: neco
   profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/lucie_nejedla.jpg
 -
   name: Barbora Chválová
   age: 18
@@ -464,7 +464,7 @@
   member: Nezávislý
   bio: neco
   profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/barbora_chvalova.jpg
 -
   name: Robin Michalec
   age: 27
@@ -482,7 +482,7 @@
   member: Nezávislý
   bio: neco
   profilelink: https://www.pirati.cz/miroslav_pokorny
-  photo: http://www.sliquesmaveriques.net/mask.png
+  photo: /assets/img/people/miroslav_pokorny.jpg
 -
   name: Luděk Blaha
   age: 59
