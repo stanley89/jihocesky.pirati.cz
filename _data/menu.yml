@@ -7,6 +7,10 @@
   url: /kandidatka/
   icon: fi-torsos-all
 -
+  title: Kandidáti do senátu
+  url: /kandidatka-senat/
+  icon: fi-torsos-all
+-
   title: Články
   url: /blog/
   icon: fi-foundation
