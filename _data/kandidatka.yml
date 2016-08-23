@@ -373,8 +373,8 @@
   town: Tábor
   member: Nezávislý
   bio: neco
-  profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  profilelink: https://www.pirati.cz/lide/martin_mareda
+  photo: /assets/img/people/martin_mareda.jpg
 -
   name: Martin Kučera
   age: 42
