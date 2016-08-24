@@ -36,10 +36,10 @@ collections:
     permalink: /lide/:path/
 
 gems:
+  - jekyll-sitemap
   - jekyll-paginate
 paginate_path: "/blog/page:num/"
 paginate: 12
-  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
