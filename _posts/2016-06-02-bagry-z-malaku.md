@@ -3,7 +3,7 @@ layout: blog
 category: blog
 tags: prostředí
 title: Dokud tu nejsou bagry a pily, má smysl se o tom bavit
-image: /assets/img/posts/pirlisty-franta-filip-2016.jpg
+image: http://viasatexplore.cz/upload/programs/galleries/gallery_2476/big/793fa0785ee240833c1bcbd85ccebe13.jpg
 author: Romana Klimešová
 ---
 

@@ -3,7 +3,7 @@ layout: blog
 category: blog
 tags: kultura
 title: Mocný Tábor
-image: /assets/img/posts/pirlisty-franta-filip-2016.jpg
+image: /assets/img/posts/mighty.jpg
 author: Martin Mareda
 ---
 
