@@ -203,8 +203,8 @@
   town: Strakonice
   member: Nezávislý
   bio: neco
-  profilelink:
-  photo: http://www.sliquesmaveriques.net/mask.png
+  profilelink: https://www.pirati.cz/lide/ales_vejvoda
+  photo: /assets/img/people/ales_vejvoda.jpg
 -
   name: Ing. Petr Král
   age: 67
