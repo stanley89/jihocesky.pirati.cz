@@ -3,7 +3,7 @@ layout: blog
 category: blog
 tags: volby
 title: Lákat voliče nereálnými sliby se může škaredě vymstít
-image: /assets/img/posts/pirlisty-franta-filip-2016.jpg
+image: /assets/img/posts/pokus.jpg
 author: Věra Marušiaková
 ---
 
