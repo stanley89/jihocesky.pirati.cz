@@ -17,7 +17,7 @@ a zároveň kontrolovat co přesně se děje s veřejnými penězi.
 Občan nemá možnost snadno a bez obstrukcí zjistit kde končí finance, se kterými kraj hospodaří.
 Nemá možnost lehce na "dvě kliknutí" nahlédnout do smluv uzavřených krajem a posoudit tak, zda je smlouva výhodná či nikoliv.
 Je dnes již téměř folklórem a můžete se každý týden potkat s minimáně jednou kauzou, kde je na první pohled zřejmé, že dochází k vyvádění veřejných peněz do soukromých kapes.
-Je to dnes natolik běžný jev, že si na to občané už natolik zvykli, že to vnímají jako samozžejmost, nikdo proti tomu neprotestuje a co je nejhorší nikdo za to není potrestán.
+Je to dnes natolik běžný jev, že si na to občané už natolik zvykli, že to vnímají jako samozřejmost, nikdo proti tomu neprotestuje a co je nejhorší nikdo za to ani není potrestán.
 Kde není důvěra, musí být kontrola!
 
 Pokud by se podařilo nastavit taková opatření, aby bylo možné cestu veřejných peněz snadno monitorovat, nebyl by pro takovéto "odklánění" peněz z rozpočtu kraje najednou prostor.
