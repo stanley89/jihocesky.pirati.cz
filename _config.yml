@@ -14,6 +14,7 @@ baseurl: "" # "/jihocesky.pirati.cz" # the subpath of your site, e.g. /blog  htt
 url: "https://jihocesky.pirati.cz" # the base hostname & protocol for your site
 keywords: piráti
 
+
 mailchimp:
   newsletter:
     action: https://pirati.us9.list-manage.com/subscribe/post?u=7e063d6dffdb0316b906e1351&amp;id=6c882fdc40"
