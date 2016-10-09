@@ -68,7 +68,7 @@ layout: page
     </ul>
 
   </div>
-
+{% comment %}
   <div class="small-12 large-6 columns {{ page.style }}">
     <section role="articles"><!-- posledni 2 články -->
       {% for post in site.posts limit:2 %}
@@ -76,4 +76,5 @@ layout: page
       {% endfor %}
     </section>
   </div>
+{% endcomment %}
 </div>
