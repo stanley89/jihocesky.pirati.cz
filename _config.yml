@@ -40,9 +40,9 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 paginate_path: "/blog/page:num/"
-paginate: 12
+paginate: 4
 
 # Build settings
 markdown: kramdown
-
+facebookurl: https://www.facebook.com/pirati.jck/
 cdn: true
