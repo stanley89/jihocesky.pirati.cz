@@ -4,7 +4,7 @@ category: blog
 tags: akce
 title: Volební rok 2017 zahájili jihočeští Piráti v Táboře
 image: /assets/img/posts/taborschuze.jpg
-author: Jana Rohová
+author: Jana Rohová, Zbyněk Konvička
 ---
 
 Jihočeští Piráti se v neděli 8. ledna sešli na své první letošní krajské schůzi.
