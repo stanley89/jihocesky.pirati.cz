@@ -10,3 +10,11 @@ img.people {
 footer {
   margin-top: 3em;
 }
+
+article {
+  margin-bottom: 2em;
+}
+
+article img {
+  margin-bottom: 0.8em;
+}
