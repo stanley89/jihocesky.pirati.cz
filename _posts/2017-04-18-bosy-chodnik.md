@@ -34,6 +34,6 @@ Chůze naboso je nejen zdravá, ale také příjemná.
 Budu velmi rád, pokud se Pirátům podaří podpořit více takových smysluplných projektů a dobrých nápadů, třeba právě ten váš.
 Pokud máte nějaký nápad a chcete pomoci s jeho realizací, neváhejte kontaktovat naši krajskou koordinátorku, Janu Rohovou (jana.rohova@pirati.cz).
 Piráti si zakládají na tom, aby jejich peníze byly využity smysluplně.
-"Je nesmyslné vynakládat finanční prostředky na rauty na politických setkáních" říká Lukáš Kolářík (lídr jihočeské kandidátky do PS, Piráti).
+Je nesmyslné vynakládat finanční prostředky na rauty na politických setkáních" říká Lukáš Kolářík (lídr jihočeské kandidátky do PS, Piráti).
 
 Slavnostní otevření bosého chodníku proběhne v pátek 21. dubna v 15:15 hodin. Všichni jste srdečně vítáni!
