@@ -6,4 +6,4 @@
 	url = https://github.com/pirati-web/layouts
 [submodule "admin"]
 	path = admin
-	url = git@github.com:pirati-web/admin.git
+	url = https://github.com/pirati-web/admin
