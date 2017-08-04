@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: blog
 tags: akce
 title: Volební rok 2017 zahájili jihočeští Piráti v Táboře

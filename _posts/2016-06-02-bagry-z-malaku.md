@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: blog
 tags: prostředí
 title: Dokud tu nejsou bagry a pily, má smysl se o tom bavit

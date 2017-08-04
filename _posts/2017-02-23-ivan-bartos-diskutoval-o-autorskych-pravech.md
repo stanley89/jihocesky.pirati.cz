@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: blog
 tags: akce
 title: Předseda Pirátů Ivan Bartoš besedoval o autorských právech a ochraně osobních dat. Přišel i strakonický starosta.

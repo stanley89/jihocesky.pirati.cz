@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: blog
 tags: akce
 title: Uklízeli jsme Jižní Čechy

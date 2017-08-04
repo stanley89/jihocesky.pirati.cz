@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: blog
 tags: rozpočet,participace
 title: Participativní rozpočet napomáhá efektivnímu rozdělování financí

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: O konopí besedoval s odborníky i jihočeský lídr Pirátů
 date: 2017-05-08T06:29:28.386Z

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: blog
 tags: volby
 title: Jsou Piráti pro Jihočeský kraj tou správnou volbou?

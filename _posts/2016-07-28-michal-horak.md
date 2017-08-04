@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: blog
 tags: volby
 title: Lákat voliče nereálnými sliby se může škaredě vymstít

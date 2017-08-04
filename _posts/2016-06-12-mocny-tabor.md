@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: blog
 tags: kultura
 title: Mocný Tábor
