@@ -1,12 +1,31 @@
-facebook:
-  - url : https://www.facebook.com/pirati.jck/
-    title: Piráti jih
-youtube:
-  - url: https://www.youtube.com/channel/UC1ng92Mw2Ris_hofy95624Q
 
-title_page:
-  video:
-    - https://www.youtube.com/embed/NCBkAlah8LY
+socials:
+  -
+    url: https://www.facebook.com/pirati.jck/
+    title: Piráti jih
+    icon: fa-facebook
+  -
+    url: https://www.youtube.com/channel/UC1ng92Mw2Ris_hofy95624Q
+    title: Piráti jih
+    icon: fa-youtube
+
+sidebar:
+  youtube:
+    channel: https://www.youtube.com/channel/UC1ng92Mw2Ris_hofy95624Q
+    video: https://www.youtube.com/embed/NCBkAlah8LY
+  facebook:
+    url: https://www.facebook.com/pirati.jck/
+  lide:
+    link: '/kontakt/'
+    items:
+      - photo: /assets/img/people/lukas_kolarik.jpg
+        link: https://www.pirati.cz/lide/lukas_kolarik
+        name: Lukáš Kolářík
+        desc: volební leader
+      - photo: https://www.pirati.cz/_media/lide/jana_rohova.jpg?w=300
+        link: https://www.pirati.cz/lide/jana_rohova
+        name: Bc. Jana Rohová
+        desc: kontaktní osoba, koordinátorka
 
 calendar:
   bar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague

@@ -3,6 +3,7 @@ title: O nás
 layout: page
 description: Program Pirátů pro volby do zastupitelstva Jihočeského kraje.
 keywords: program, jihočeši, politika
+rbar: video, people
 ---
 
 

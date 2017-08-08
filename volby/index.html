@@ -1,0 +1,34 @@
+---
+title: Volby do parlamentu
+layout: page
+description: Kandidátní listina jihočeského kraje České pirátské strany pro volby do parlamentu.
+keywords: volby, jihočeši, politika, program
+rbar: video, fb
+---
+
+<p>
+  Na podzim letošního roku se budou konat volby do parlamentu.
+  <a href="http://pirati.cz" target="_blank">Česká pirátská strana</a> neprichází s ničím jiným než v minulosti.
+  Neuhýbáme, neměníme program podle populistických témat.
+  Od nás máte vše hezky <a href="http://cernenabilem2017.cz" target="_blank">černé na bílém</a>.
+</p>
+
+<blockquote>
+  <b>PUSŤTE NÁS NA NĚ!</b>
+</blockquote>
+
+<h3>
+  <a href="https://www.pirati.cz/program/psp2017.html" target="_blank">
+    Kompletní program rozdělený podle resortů
+  </a>
+</h3>
+
+<div class="row small-up-1 medium-up-2 large-up-3">
+  {% for item in site.data.kandidatka limit: 4 %}
+    {% include shared/people/kandidatka_item.html %}
+  {% endfor %}
+</div>
+
+<p><a href="{{ '/kandidatka/' | relative_url }}">
+  Kompletní kandidátka ZDE
+</a></p>
