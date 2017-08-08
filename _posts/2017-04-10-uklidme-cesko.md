@@ -1,6 +1,7 @@
 ---
 layout: post
 category: blog
+date: 2017-04-10
 tags: akce
 title: Uklízeli jsme Jižní Čechy
 image: /assets/img/posts/uklidmecesko_vsichni.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 category: blog
+date: 2017-02-28
 tags: akce
 title: Jihočeští Piráti se sešli v Písku
 image: /assets/img/posts/2krajskaSchuze2017.jpg
