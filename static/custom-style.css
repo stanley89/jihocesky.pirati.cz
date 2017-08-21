@@ -18,3 +18,9 @@ article {
 article img {
   margin-bottom: 0.8em;
 }
+
+
+.c-welcome-header {
+  background: url('/assets/img/mainback.jpg') no-repeat;
+  background-size: cover;
+}

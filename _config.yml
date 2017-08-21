@@ -8,6 +8,8 @@ baseurl: "" # "/jihocesky.pirati.cz" # the subpath of your site, e.g. /blog  htt
 url: "https://jihocesky.pirati.cz" # the base hostname & protocol for your site
 keywords: piráti
 
+githublink: https://github.com/pirati-web/jihocesky.pirati.cz/edit/gh-pages/
+
 plugins-dir: [
   "jekyll-paginate"
 ]

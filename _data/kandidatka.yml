@@ -12,8 +12,8 @@
   work: daňový poradce, farmář
   town: Jindřichův Hradec
   member: Piráti
-  profilelink: https://www.pirati.cz/lide/michal_horak
-  photo: /assets/img/people/michal_horak.jpg
+  profilelink: https://wiki.pirati.cz/lide/oldrich_maca
+  photo: /assets/img/people/oldrich_maca.jpg
 -
   name: Bc. Jana Rohová
   age: 30
@@ -21,7 +21,7 @@
   town: Strakonice
   member: Piráti
   profilelink: https://www.pirati.cz/lide/jana_rohova
-  photo: https://www.pirati.cz/_media/lide/jana_rohova.jpg?w=300
+  photo: /assets/img/people/jana_rohova.jpg
 -
   name: Mgr. Václav Klecanda
   age: 33
@@ -36,8 +36,8 @@
   work: redaktor, publicista
   town: Písek
   member: Piráti
-  profilelink: https://www.pirati.cz/lide/michal_horak
-  photo: /assets/img/people/michal_horak.jpg
+  profilelink: https://www.pirati.cz/lide/zbynek_konvicka
+  photo: /assets/img/people/zbynek_konvicka.jpg
 -
   name: Ing. Martin Kákona
   age: 50
@@ -69,8 +69,8 @@
   work: adiktolog, hudebník
   town: Tábor
   member: Piráti
-  profilelink: https://www.pirati.cz/lide/jan_novak
-  photo: /assets/img/people/jan_novak.jpg
+  profilelink: https://wiki.pirati.cz/lide/martin_mareda
+  photo: https://wiki.pirati.cz/_media/lide/martin_mareda.jpg?w=200
 -
   name: Markéta Kastnerová
   age: 36
@@ -125,7 +125,7 @@
   work: OSVČ - Elektromechanik
   town: Tábor
   member: Piráti
-  profilelink:
+  profilelink: https://wiki.pirati.cz/lide/marthas_kucera
   photo: /assets/img/people/martin_kucera.jpg
 -
   name: Mgr. et Mgr. Barbora Staňková
@@ -134,7 +134,7 @@
   town: Prachatice
   member: Nezávislý
   profilelink: https://www.pirati.cz/lide/barbora_stankova
-  photo: https://scontent.fprg2-1.fna.fbcdn.net/v/t1.0-9/13782045_10207432851321098_1011841140832605286_n.jpg
+  photo: /assets/img/people/barbora_stankova.jpg
 -
   name: Ing. Ondřej Lešetický Ph.D.
   age: 44
