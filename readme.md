@@ -1,6 +1,8 @@
 # Web jihočeských Pirátů
 
-Web Pirátů v Jihočeském kraji. 
+https://startbootstrap.com/template-overviews/one-page-wonder/
+
+Web Pirátů v Jihočeském kraji.
 
 Pro psaní článků je třeba umět [markdown](https://daringfireball.net/projects/markdown/). Pro zbylé úpravy html a css framework [Foundation 6](http://foundation.zurb.com/). Takže je třeba seznámit se alespoň se základy gitu.
 
@@ -16,7 +18,7 @@ Používáme technologii [Jekyll](http://jekyllrb.com/), která tvoří web ze s
 ### Lokální test
 
 V adresaři s repozitářem spustíme příkaz:
-`jekyll serve --incremental --baseurl '' `
+`bundle exec jekyll serve --incremental --baseurl '' `
 což spustí server s webem a my si ho můžeme prohlédnout.
 
 ### Správný commit

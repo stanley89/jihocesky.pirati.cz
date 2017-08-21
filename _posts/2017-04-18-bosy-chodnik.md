@@ -1,6 +1,7 @@
 ---
 layout: post
 category: blog
+date: 2017-04-18
 tags: akce
 title: Dobrovolníci a Piráti se v sobotu sešli na Podskalí, aby zde vybudovali stezku pro bosé nohy
 image: /assets/img/posts/bosichodnik_all.jpg

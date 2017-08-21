@@ -1,97 +1,29 @@
 ---
-layout: page
+layout: default
+rbar: people, video
 ---
 
-<!-- <div class="small-12 columns {{ page.style }}">
-
-  <div class="callout large primary">
-
-    <h4><a href="/blog/jsou-pirati-dobrou-volbou/">
-      Piráti představují novou netradiční stranu nezatíženou korupčními a klientelistickými skandály
-    </a></h4>
-    <p>
-      Fungujeme plně transparentně a tyto principy chceme přenést na krajskou úroveň.
-      V Praze nebo Brně se našim zastupitelům daří úspěšně zavádět transparentní opatření a upozorňovat na korupční skandály.
-    </p>
-
-    <div class="media-object">
-
-      <div class="media-object-section">
-        <h5>To samé chceme dělat v Jihočeském kraji. <a href="#podpornas">Podpoř nás.</a></h5>
-        <ul>
-          <li><h5><a href="/program/#otevreme_hospodareni">Otevřeme hospodaření kraje</a></h5></li>
-          <li><h5><a href="/program/#moderni_technologie">Prosadíme moderní technologie</a></h5></li>
-          <li><h5><a href="/program/#zapojime_obcany">Zapojíme občany do rozhodování</a></h5></li>
-        </ul>
-      </div>
-
-      <div class="media-object-section">
-        <img src="https://tabor.pirati.cz/static/budpirat-small.png"
-          alt="ukážeme prstem na korupci" class="img-responsive float-right" />
-      </div>
-
-    </div>
-  </div>
-
-</div> -->
+{% include title_hero.html %}
 
 <div class="row">
-  <div class="small-12 large-6 columns {{ page.style }}">
-
-    <p>
-      Klíčem k prosperitě naší společnosti je otevřenost, transparentnost, svoboda informací,
-      použití nových technologií a zapojení občanů do rozhodování.
-      Piráti nabízí alternativu kraje bez korupce, nesmyslných dotací, politických trafik a klientelismu.
-      Chceme, aby krajské úřady nebyly pro aktivní občany byrokratickou překážkou,
-      ale příležitostí zapojit se do veřejného dění a kultivace svého okolí ... <a href="/program/">Více</a>
-    </p>
-
-    <!--
-    <div class="flex-video">
-      TODO: neco sem dame :)
-    </div>
-    -->
-
-    <h2 id="podpornas">Podpoř nás</h2>
-    <ul>
-      <li><i class="fi-heart"></i> Hlavně přijď k volbám! :)</li>
-      <li><a href="https://www.pirati.cz/ao/clen"><i class="fi-torsos-all"></i> Jako člen a aktivní občan</a></li>
-      <li><a href="https://redmine.pirati.cz/"><i class="fi-arrows-in"></i> Jako dobrovolník na některém z projektů</a></li>
-      <li><a href="https://www.pirati.cz/fo/dary"><i class="fi-dollar"></i> Finančním darem</a></li>
-    </ul>
-
-    <h2>Zastupitelé</h2>
-    <ul>
-      <li>V <a href="https://www.pirati.cz/regiony/jiznicechy/pisecko/start">Písku</a> je zastupitelem člen Pirátů Martin Brož.</li>
-      <li>Na soběslavské radnici za vás bojují <a href="http://pirati.sobeslav.cz/volby-2014/nasi-zastupitele/">nezávislí Pirátští zastupitelé</a> Martin Kákona a Iveta Matějů.</li>
-      <li>V Táboře jsme součástí hnutí <a href="http://www.taborjinak.cz">JINAK!</a>, které má tři zastupitele.</li>
-      <li>Náš člen Petr Steinbauer prosazuje Pirátský program ve spolupráci s <a href="http://volbats.cz/program/">Volbou pro město Trhové Sviny</a>.</li>
-    </ul>
-
-    <h2>Kontakt</h2>
-    <ul>
-      <li>
-        Lukáš Kolářík (předseda, lídr parlamentních voleb), <a href="mailto:lukas.kolarik@pirati.cz">lukas.kolarik@pirati.cz</a>
-      </li>
-      <li>
-        Jana Rohová (media, PR), <a href="mailto:jana.rohova@pirati.cz">jana.rohova@pirati.cz</a>
-      </li>
-    <ul>
-
-    <hr/>
-
-    <div class="small-12">
-      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpirati.jck&tabs&width=512&height=250&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=123230281145826" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-    </div>
-
-  </div>
-
-  <div class="small-12 large-6 columns {{ page.style }}">
-    <section role="articles"><!-- posledni 2 články -->
-      {% for post in site.posts limit:2 %}
-      {% include shared/articlesumary.html %}
-      {% endfor %}
+  <div class="medium-12 large-8 columns">
+    <section class="o-section o-section--spaceBot">
+      <div class="o-section-inner o-section-inner--leftBlock">
+        <header class="o-section-header">
+          <h1 class="o-section__heading">Aktuální témata</h1>
+        </header>
+        {% for article in site.posts limit: 4 %}
+          {% include shared/article-list/title_article.html param='article' %}
+        {% endfor %}
+        <div class="c-BlogPosting-excerpt-nextBox">
+          <a href="{{'/blog/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
+        </div>
+      </div>
     </section>
   </div>
-
+  {% if page.rbar %}
+  <div class="medium-12 large-4 columns">
+    {% include rbar.html param='rbar' %}
+  </div>
+  {% endif %}
 </div>

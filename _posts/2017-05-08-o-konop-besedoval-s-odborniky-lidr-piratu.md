@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: O konopí besedoval s odborníky i jihočeský lídr Pirátů
-date: 2017-05-08T06:29:28.386Z
+date: 2017-05-08
 author: Jana Rohová
 image: /assets/img/posts/rok_konopi_debata.jpg
 description: >-
@@ -11,7 +11,7 @@ description: >-
   Mgr. Dušan Dvořák, psychoterapeut a předseda odborné společnosti Konopí je
   lék, a také předseda jihočeských Pirátů a lídr kandidátky pro volby 2017 Lukáš
   Kolářík.
-tags: 'konopí,beseda'
+tags: [konopí, beseda]
 ---
 
 Ve čtvrtek 4. května se ve strakonické čajovně Na Půdě promítal dokument Rok konopí, na který navázala inspirativní debata.

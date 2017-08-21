@@ -1,81 +1,28 @@
 ---
-title: Kontakty
+title: Lidé
 layout: page
-description: Kandidátní listina České pirátské strany pro volby do zastupitelstva Jihočeského kraje konané ve dnech 7. a 8. října 2016.
-keywords: kontakty, jihočeši, politika
+description: kontakty na jednotlivé jihočeské piráty
+keywords: jihočeši, politika, kontakt
+rbar: video, fb
 ---
 
-<div class="row">
-  <div class="large-6 column">
-    <h3>Kontakt</h3>
-    <div class="media-object">
-      <div class="media-object-section">
-        <div class="thumbnail" >
-          <img style="height: 65px;" src= "https://forum.pirati.cz/download/file.php?avatar=8785_1385485739.jpg">
-        </div>
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
+        {% assign team = site.people %}
+        {% include shared/people/list-2col.html param=team %}
       </div>
-      <div class="media-object-section main-section">
-
-        <h6><a href="{{ '/lide/michal-horak/' }}">Michal Horák</a></h6>
-        <p>michal.horak@pirati.cz<br>lídr kandidátky</p>
-      </div>
-    </div>
-    <div class="media-object">
-      <div class="media-object-section">
-        <div class="thumbnail">
-          <img style="height: 65px;" src= "https://forum.pirati.cz/download/file.php?avatar=7870_1383393767.jpg">
-        </div>
-      </div>
-      <div class="media-object-section main-section">
-        <h6><a href="{{ '/lide/lukas-kolarik/' }}">Lukáš Kolářík</a></h6>
-        <p>lukas.kolarik@pirati.cz<br>místopředseda krajského sdružení</p>
-      </div>
-    </div>
-    <div class="media-object">
-      <div class="media-object-section">
-        <div class="thumbnail">
-          <img style="height: 65px;" src= "https://forum.pirati.cz/download/file.php?avatar=1512_1410462762.jpg">
-        </div>
-      </div>
-      <div class="media-object-section main-section">
-        <h6><a href="{{ '/lide/vladimir-sebor/' }}">Jan Novák</a></h6>
-        <p>jan.novak@pirati.cz<br>volební manažer</p>
-      </div>
-    </div>
-
-    <dl style="border-right: 1px solid #E3E5E8;">
-      <dt>Pirátské centrum</dt>
-      <dd><address>Řehořova 943/19, 130 00 Praha 3</address>
-        Tobias Esner, tobias.esner@pirati.cz<br>
-        správce Pirátského centra<br>
-        <iframe src="{{ site.kontakt.map }}" width="500" height="300" frameborder="0" style="border:0" allowfullscreen>
-        </iframe>
-      </dd>
-    </dl>
-  </div>
-  <div class="large-6 column">
-    <h3>Představitelé</h3>
-
-    <dl>
-      <dt>Ivo Vlasatý</dt>
-      <dd>předseda</dd>
-      <p></p>
-      <dt>Václav Urban</dt>
-      <dd>1. místopředseda</dd>
-      <p></p>
-      <dt>Lukáš Kolářík</dt>
-      <dd>2. místopředseda</dd>
-      <p></p>
-      <dt>Josef Krajc</dt>
-      <dd>3. místopředseda</dd>
-      <p></p>
-      <dt>Jindra Matlachová</dt>
-      <dd>4. místopředseda</dd>
-    </dl>
+    </section>
   </div>
 </div>
-<div class="row">
-  <div class="large-12 column">
-    <p>Každý člen strany má email ve tvaru: <tt>jmeno.prijmeni@pirati.cz</tt></p>
-  </div>
-</div>
+
+<h2>Kontakt</h2>
+<ul>
+  <li>
+    Lukáš Kolářík (předseda, lídr parlamentních voleb), <a href="mailto:lukas.kolarik@pirati.cz">lukas.kolarik@pirati.cz</a>
+  </li>
+  <li>
+    Jana Rohová (media, PR), <a href="mailto:jana.rohova@pirati.cz">jana.rohova@pirati.cz</a>
+  </li>
+<ul>
