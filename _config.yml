@@ -10,9 +10,10 @@ keywords: piráti
 
 githublink: https://github.com/pirati-web/jihocesky.pirati.cz/edit/gh-pages/
 
-plugins-dir: [
-  "jekyll-paginate"
-]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
 
 #collections:
 #  people:
