@@ -11,8 +11,30 @@
   ga('create', 'UA-83055026-1', 'auto');
   ga('send', 'pageview');
 
-  var api_search = null
+  var api_search = []
+  var api_people = []
+  var page_leader = null
+  var page_contact = null
 
+</script>
+
+<script>
+var back_top = function() {
+  $(window).scroll(function() {
+      if ($(this).scrollTop() > 50 ) {
+          $('.scrolltop:hidden').stop(true, true).fadeIn();
+      } else {
+          $('.scrolltop').stop(true, true).fadeOut();
+      }
+  });
+  $(function(){
+    $(".scroll").click(function(){
+      $("html,body").animate(
+        {scrollTop: $(".thetop").offset().top}, "1000");
+      return false
+    }
+  )});
+}
 </script>
 
 <script src="https://www.pirati.cz/assets/js/common-libs.min.js"></script>

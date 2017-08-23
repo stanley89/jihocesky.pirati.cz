@@ -1,8 +1,8 @@
 ---
 title: O nás
 layout: page
-description: Program Pirátů pro volby do zastupitelstva Jihočeského kraje.
-keywords: program, jihočeši, politika
+description: rozcestník na jednotlivé pirátské buňky v jihočeském kraji
+keywords: organizace, politika, kraj
 rbar: video, people
 ---
 
@@ -16,6 +16,7 @@ V rámci kraje se našim zastupitelům daří úspěšně zavádět transparentn
 - [Jindřichův Hradec](http://otevrenyhradec.cz/)
 - [Písek](https://www.pirati.cz/regiony/jiznicechy/pisecko/start): zastupitelem člen Pirátů Martin Brož.
 - [Soběslav](http://pirati.sobeslav.cz/): na radnici za vás bojují Pirátští zastupitelé Martin Kákona a Iveta Matějů.
-- #### [Tábor](http://tabor.pirati.cz)
-  jsme součástí hnutí [JINAK!](http://www.taborjinak.cz), které má tři zastupitele.
+- [Tábor](http://tabor.pirati.cz) jsme součástí hnutí [JINAK!](http://www.taborjinak.cz), které má tři zastupitele.
 - [Trhové Sviny](http://volbats.cz/): Náš člen Petr Steinbauer prosazuje Pirátský program ve spolupráci s [Volbou pro město](http://volbats.cz/).
+- [Týn nad Vltavou](https://www.facebook.com/PiratiTyn/)
+- [České Budějovice](https://www.facebook.com/PiratiCB/)

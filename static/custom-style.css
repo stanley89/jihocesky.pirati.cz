@@ -1,6 +1,7 @@
 
 img.people {
   width: 150px;
+  height: 250px;
 }
 
 .top-bar-title {
@@ -21,6 +22,15 @@ article img {
 
 
 .c-welcome-header {
-  background: url('/assets/img/mainback.jpg') no-repeat;
+  background: none;
+  /*background: url('/assets/img/mainback.jpg') no-repeat;*/
   background-size: cover;
+}
+
+.pagination {
+  list-style-type: none;
+}
+
+.c-welcome-header .c-welcome-header-wrapper.c-welcome-header-wrapper--wbg:before {
+  background: none;
 }

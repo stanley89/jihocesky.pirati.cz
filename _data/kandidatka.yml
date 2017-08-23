@@ -70,7 +70,7 @@
   town: Tábor
   member: Piráti
   profilelink: https://wiki.pirati.cz/lide/martin_mareda
-  photo: https://wiki.pirati.cz/_media/lide/martin_mareda.jpg?w=200
+  photo: https://wiki.pirati.cz/_media/lide/martin_mareda.jpg?w=150&h=250
 -
   name: Markéta Kastnerová
   age: 36
@@ -86,7 +86,7 @@
   town: Písek
   member: Piráti
   profilelink: https://wiki.pirati.cz/lide/josef_soumar
-  photo: https://wiki.pirati.cz/_media/lide/josef_soumar.jpg?w=200
+  photo: https://wiki.pirati.cz/_media/lide/josef_soumar.jpg?w=150&h=250
 -
   name: Jindra Matlachová
   age: 49
@@ -94,7 +94,7 @@
   town: Tábor
   member: Piráti
   profilelink: https://www.pirati.cz/lide/jindra_matlachova
-  photo: https://www.pirati.cz/_media/lide/jindra_matlachova.jpg?w=200
+  photo: https://www.pirati.cz/_media/lide/jindra_matlachova.jpg?w=150&h=250
 -
   name: Mgr. Václav Urban
   age: 53
@@ -102,7 +102,7 @@
   town: Jindřichův Hradec
   member: Piráti
   profilelink: https://www.pirati.cz/lide/vaclav_urban
-  photo: https://wiki.pirati.cz/_media/lide/vaclav_urban.jpg?w=300
+  photo: https://wiki.pirati.cz/_media/lide/vaclav_urban.jpg?w=150&h=250
 -
   name: Mgr. Dan Leština
   age: 27
@@ -110,7 +110,7 @@
   town: České Budějovice
   member: Piráti
   profilelink: https://www.pirati.cz/lide/dan_lestina
-  photo: https://wiki.pirati.cz/_media/lide/dan_lestina.jpg?w=200
+  photo: https://wiki.pirati.cz/_media/lide/dan_lestina.jpg?w=150&h=250
 -
   name: Zuzana Drázdová
   age: 20
@@ -142,7 +142,7 @@
   town: Sezimovo Ústí
   member: Piráti
   profilelink: https://www.pirati.cz/lide/ondrej_leseticky
-  photo: https://wiki.pirati.cz/_media/lide/ondrej_leseticky.jpg?w=200
+  photo: https://wiki.pirati.cz/_media/lide/ondrej_leseticky.jpg?w=150&h=250
 -
   name: Bc. Jan Novák
   age: 26
@@ -175,4 +175,4 @@
   member: Piráti
   bio: neco
   profilelink: https://www.pirati.cz/lide/ludek_blaha
-  photo: https://www.pirati.cz/_media/lide/ludek_blaha.jpg?w=300
+  photo: https://www.pirati.cz/_media/lide/ludek_blaha.jpg?w=150&h=250
