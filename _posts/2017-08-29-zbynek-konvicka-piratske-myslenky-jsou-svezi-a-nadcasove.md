@@ -8,7 +8,6 @@ image: /assets/img/posts/zbynek k rozhovoru.jpg
 description: 'Rozhovor se Zbyňkem Konvičkou, pětkou Jihočeské kandidátky do PS'
 tags: 'List [ "Zbyněk Konvička" ]'
 ---
-![null](/assets/img/posts/zbynek k rozhovoru.jpg)
 
 Zbyněk Konvička spolupracuje s Českou Pirátskou
 stranou od roku 2016. Povídali jsme si s ním především o kultuře,
@@ -193,4 +192,5 @@ V současnosti pracuje v neziskové organizaci Institut pro památky a kulturu
 jako redaktor. Angažuje se v kulturních aktivitách (Divadlo Pod čarou - Písek,
 volný spolek Společnost za práva zrcadel), sleduje veřejné dění a píše do
 lokálních médií.
+
 
