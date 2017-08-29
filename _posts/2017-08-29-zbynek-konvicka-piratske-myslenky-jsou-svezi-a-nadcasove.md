@@ -8,6 +8,8 @@ image: /assets/img/posts/zbynek k rozhovoru.jpg
 description: 'Rozhovor se Zbyňkem Konvičkou, pětkou Jihočeské kandidátky do PS'
 tags: 'List [ "Zbyněk Konvička" ]'
 ---
+![null](/assets/img/posts/zbynek k rozhovoru.jpg)
+
 Zbyněk Konvička spolupracuje s Českou Pirátskou
 stranou od roku 2016. Povídali jsme si s ním především o kultuře,
 novinařině a pořádání akcí pro veřejnost. Jeho stručný životopis si můžete
