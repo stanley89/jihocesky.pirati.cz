@@ -15,6 +15,10 @@ stranou od roku 2016. Povídali jsme si s ním především o kultuře,
 novinařině a pořádání akcí pro veřejnost. Jeho stručný životopis si můžete
 přečíst na konci článku.
 
+
+![Zbyněk Konvička](/assets/img/posts/zbynek k rozhovoru.jpg)
+
+
 **Jaký
 máš názor na současnou politickou scénu? Jak ses dostal k Pirátům?**
 
@@ -189,3 +193,4 @@ V současnosti pracuje v neziskové organizaci Institut pro památky a kulturu
 jako redaktor. Angažuje se v kulturních aktivitách (Divadlo Pod čarou - Písek,
 volný spolek Společnost za práva zrcadel), sleduje veřejné dění a píše do
 lokálních médií.
+
