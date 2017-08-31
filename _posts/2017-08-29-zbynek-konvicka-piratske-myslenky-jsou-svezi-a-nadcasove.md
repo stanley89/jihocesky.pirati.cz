@@ -6,7 +6,7 @@ date: 2017-08-29T21:11:44.734Z
 author: Jana Rohová
 image: /assets/img/posts/zbynek k rozhovoru.jpg
 description: 'Rozhovor se Zbyňkem Konvičkou, pětkou Jihočeské kandidátky do PS'
-tags: 'List [ "Zbyněk Konvička" ]'
+tags: lide
 ---
 
 Zbyněk Konvička spolupracuje s Českou Pirátskou
@@ -14,20 +14,14 @@ stranou od roku 2016. Povídali jsme si s ním především o kultuře,
 novinařině a pořádání akcí pro veřejnost. Jeho stručný životopis si můžete
 přečíst na konci článku.
 
+**Jaký máš názor na současnou politickou scénu? Jak ses dostal k Pirátům?**
 
-![Zbyněk Konvička](/assets/img/posts/zbynek k rozhovoru.jpg)
-
-
-**Jaký
-máš názor na současnou politickou scénu? Jak ses dostal k Pirátům?**
-
-Při
-práci v redakcích regionálních novin jsem se snažil být apolitický, nad
+Při práci v redakcích regionálních novin jsem se snažil být apolitický, nad
 věcí a psát o veřejném dění s nadhledem. Současně jsem vždy chtěl pravdivě
 popisovat stav věcí. Poté, co jsem začal pracovat jako redaktor internetového
 portálu PROPAMÁTKY v neziskovém sektoru a fungovat současně jako
 dobrovolník v Divadle Pod čarou, jsem si říkal, že se chci veřejnému dění
-\(či politice) věnovat více. Viděl jsem tam větší možnosti věci měnit, než
+(či politice) věnovat více. Viděl jsem tam větší možnosti věci měnit, než
 v oblasti neziskového sektoru. Navíc jsem se už jaksi vyvázal či nebyl ve „střetu
 zájmu“ s mou profesí novináře, který se věnuje klasickému zpravodajství a
 s komunálními politiky přichází často do kontaktu.
@@ -67,11 +61,9 @@ zároveň mě to štve a říkám si, že to je velká škoda pro všechny. Nad�
 změnu vidím proto u Pirátů. Svou otevřeností a demokratickými principy nejen
 uvnitř strany pro mne znamenají cestu pro 21. století.
 
-**Věnuješ
-se novinařině, o čem nejraději píšeš?**
+**Věnuješ se novinařině, o čem nejraději píšeš?**
 
-Nejraději
-se setkávám s lidmi, kteří mají co říct nebo se něčím zajímavým zabývají.
+Nejraději se setkávám s lidmi, kteří mají co říct nebo se něčím zajímavým zabývají.
 S takovými lidmi je radost pobýt a připravovat s nimi rozhovory. Nabíjí
 mě to a obohacuje. Nejčastěji a rád píši o inspirativních příkladech obnovy
 památek u nás a jejich financování pro internetový portál a časopis PROPAMÁTKY.
@@ -82,13 +74,11 @@ lapeni a ocejchováni různými diagnózami od psychiatrického systému, ač se
 nemoc v pravém smyslu či něco patologického nejedná, nýbrž o transformační
 a ozdravný proces duše, který člověka může posunout mnohem dál.
 
-**Současné
-postavení novinářů ve společnosti není jednoduché. Je v tomto oboru
+**Současné postavení novinářů ve společnosti není jednoduché. Je v tomto oboru
 respektována svoboda slova nebo se novinář musí podřizovat? V čem vidíš
 největší problémy?**
 
-Největší
-svobodu má ten novinář, který má vlastní noviny či internetové stránky nebo i
+Největší svobodu má ten novinář, který má vlastní noviny či internetové stránky nebo i
 blog. Nikdo mu neříká a nezasahuje do toho, co má psát a jak to má psát. Tuhle
 výsadu mají ale spíš menší regionální listy, nebo ještě spíš internetové
 portály, které jsou často financované z darů svých čtenářů (např. investigativní
@@ -103,11 +93,9 @@ proč určité věci nezveřejnit. Pak je tu obchodní stránka novin a inzerce,
 obecně platí, kdo sype, o tom, se píše jen v dobrém nebo vůbec, když má případně
 průšvih. Peníze to zkrátka přebijí.
 
-**Věnuješ
-se pořádání akcí. Změnily se během posledních pár let podmínky při jejich pořádání?**
+**Věnuješ se pořádání akcí. Změnily se během posledních pár let podmínky při jejich pořádání?**
 
-Koncerty
-jsem zařizoval poprvé pro svou kapelu Apples v 90. letech. Když jsme se
+Koncerty jsem zařizoval poprvé pro svou kapelu Apples v 90. letech. Když jsme se
 v roce 1997 rozpadli, tak mi bylo líto z té klubové scény úplně
 vypadnout. A tak jsme s kamarády založili neformální spolek Společnost za
 práva zrcadel a deset let pořádali pod touto hlavičkou folkové a rockové
@@ -122,11 +110,9 @@ dobrovolník při akcích Divadla Pod čarou nebo se snažím organizovat coby p
 zástupce v Osadním výboru Hradiště v Písku kulturně-společenské akce
 pro veřejnost ve čtvrti Hradiště, kde s rodinou žijeme.
 
-**Jaký
-máš vztah k OSA (ochrannému svazu autorskému)?**
+**Jaký máš vztah k OSA (ochrannému svazu autorskému)?**
 
-Nejsem
-odborník na autorské právo, ale přijde mi nemorální a de facto předem
+Nejsem odborník na autorské právo, ale přijde mi nemorální a de facto předem
 kriminalizující to, že když si kdokoliv zakoupí prázdný nosič (CD, DVD, flash
 disk, externí disky) nebo tiskárnu, musí z tohoto zboží platit poplatky OSA.
 Jakoby OSA předem říkala, vy si tam budete zcela určitě stahovat nelegální
@@ -137,8 +123,7 @@ nepřinesla. Myslím si, že autorské právo by jistě v mnoha případech mě
 být hájeno, ale ne neziskovou organizací, jakou OSA je, ale například přímo
 Ministerstvem kultury, tedy státem.
 
-**Zajímá
-tě kultura. Jaký je podle tebe vztah společnosti ke kultuře? Jak si
+**Zajímá tě kultura. Jaký je podle tebe vztah společnosti ke kultuře? Jak si
 představuješ podporu kultury ze strany státu a občanů?**
 
 Kultura byla odpradávna součástí lidských společenství. Obohacovala duši,
@@ -157,22 +142,18 @@ týče, těm městským směle konkurují a vše dělají mnohdy pouze dobrovoln
 když by v kultuře nemělo jít a priori o konkurenci, ale o spolupráci a
 sdílení toho, co nás baví a spojuje.
 
-**Jaké
-je stanovisko Pirátů ke kultuře, co by chtěli změnit?**
+**Jaké je stanovisko Pirátů ke kultuře, co by chtěli změnit?**
 
-V
-pirátském programu se mi líbí hodně věcí, například sleva na dani až do výše
+V pirátském programu se mi líbí hodně věcí, například sleva na dani až do výše
 2000 korun pokud si dotyčný vybere neziskovku v kultuře, které chce věnovat
 dar. Pak věci z autorského práva, kde bychom chtěli zkrátit nesmyslně
 dlouhé doby copyrightu, tedy pozdější možnosti dílo vydat či sdílet volně. Líbí
 se mi i návrh, který dílo vytvořené z grantů umožní dát po dvou letech
 k volnému sdílení a šíření pro nekomerční účely.
 
-**Proč
-by lidé měli volit Piráty?**
+**Proč by lidé měli volit Piráty?**
 
-\*\*Především
-pro jejich otevřenost a transparentní či průhlednou politiku, kterou sami na
+Především pro jejich otevřenost a transparentní či průhlednou politiku, kterou sami na
 sobě praktikují od samého počátku. Vše je de facto věcí veřejnou, včetně
 vnitrostranické diskuze, tedy žádná zákulisní jednání či vlivy lobbistů. Když
 už nějaký takový pokus nastane, je zveřejněn ve veřejné evidenci lobbistických
@@ -184,7 +165,7 @@ Přesvědčte se sami na [www.pirati.cz](http://www.pirati.cz).
 
 **Zbyněk Konvička**
 
-\(25. března 1975) je členem místního sdružení Piráti Písecko. Pochází ze
+(25. března 1975) je členem místního sdružení Piráti Písecko. Pochází ze
 Strakonic, ale od roku 2008 žije v Písku. Vystudoval Gymnázium ve Strakonicích
 a Sociálně-právní akademii v Prachaticích. V průběhu studia se specializoval na
 humanitní vědy a sociální oblast. Prošel několika redakcemi regionálních novin.
