@@ -44,9 +44,10 @@ ale nechceme se zadlužovat. Nemyslíme si, že je to vhodný způsob, jak získ
 
 \*\*60 000 Kč - \*\*natočíme profesionální volební video
 
-Preferovaným způsobem darování je převod na transparentní účet. Není nic jednoduššího než vyplnit údaje do našeho formuláře pro dary: 
+Preferovaným způsobem darování je převod na transparentní účet. Není nic jednoduššího než vyplnit údaje do našeho 
+[[https://wiki.pirati.cz/fo/dary/|formuláře pro dary]]
 
-https://wiki.pirati.cz/fo/dary 
+
 
 Pokud chcete přispět Pirátům **v jihočeském kraji**, vyplňte, prosím, **SS 191200**.
 
@@ -54,7 +55,7 @@ Pokud Vás napadá jiná forma podpory, ozvěte se nám.
 
 Na náš účet se nevztahuje bankovní tajemství a informace o platbách jsou veřejně dostupné prostřednictvím internetu. Na transparentním účtu se vždy zobrazuje název účtu odesílatele.
 
-Transparentní účet: https://www.fio.cz/ib2/transparent?a=2100048174
+[[www.fio.cz/ib2/transparent?a=2100048174/|transparentní účet]]
 
 Předem Vám děkujeme za Vaši ochotu podílet se na Pirátské plavbě do sněmovny!
 
