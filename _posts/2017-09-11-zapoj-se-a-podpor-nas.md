@@ -5,7 +5,7 @@ title: Zapoj se a podpoř nás!
 date: 2017-09-11T17:32:46.154Z
 author: Jana Rohová
 image: /assets/img/posts/fb post fin1.jpg
-description: fundraising pro Piráty jihočeského kraje
+description: fundraising pro Piráty Jihočeského kraje
 tags: finance
 ---
 Volby se pomalu ale jistě blíží a i jihočeští Piráti se snaží odvést co nejlepší práci v kampani, aby se o nich dozvěděli také lidé, kteří o nich zatím mnoho neví.
@@ -46,7 +46,7 @@ ale nechceme se zadlužovat. Nemyslíme si, že je to vhodný způsob, jak získ
 
 Preferovaným způsobem darování je převod na transparentní účet. Není nic jednoduššího než vyplnit údaje do našeho [formuláře pro dary.](https://wiki.pirati.cz/fo/dary)
 
-Pokud chcete přispět Pirátům **v jihočeském kraji**, vyplňte, prosím, **SS 191200**.
+Pokud chcete přispět Pirátům **v Jihočeském kraji**, vyplňte, prosím, **SS 191200**.
 
 Pokud Vás napadá jiná forma podpory, ozvěte se nám.
 
