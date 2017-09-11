@@ -12,7 +12,7 @@ Volby se pomalu ale jistě blíží a i jihočeští Piráti se snaží odvést 
 
 **Zapoj se!**
 
-Naše kampaň je postavena hlavně na dobrovolnické bázi a využijeme každou další pomocnou ruku (kontaktujte [jana.rohova@pirati.cz](mailto:jana.rohova@pirati.cz)). Každý den se k naší kampani někdo přidá, přidej se taky!  
+Naše kampaň je postavena hlavně na dobrovolnické bázi a využijeme každou další pomocnou ruku (kontaktujte [jana.rohova@pirati.cz](mailto:jana.rohova@pirati.cz)). Každý den se k naší kampani někdo přidá, přidej se taky!
 
 **Podpoř nás!**
 
@@ -28,32 +28,33 @@ ale nechceme se zadlužovat. Nemyslíme si, že je to vhodný způsob, jak získ
 
 **Na co použijeme vaše peníze?**
 
-**100 Kč - **koupíme dobrovolníkům svačinu nebo kafe
+\*\*100 Kč - \*\*koupíme dobrovolníkům svačinu nebo kafe
 
-**500 Kč - **vybavíme jednoho dobrovolníka Pirátskými listy na celodenní kontaktní kampaň
+\*\*500 Kč - \*\*vybavíme jednoho dobrovolníka Pirátskými listy na celodenní kontaktní kampaň
 
-**800 Kč - **zaplatíme za stání pirátského autobusu na Budějovickém náměstí
+\*\*800 Kč - \*\*zaplatíme za stání pirátského autobusu na Budějovickém náměstí
 
-**1 000 Kč - **pozvánku na náš happening uvidí na Facebooku o 2000 uživatelů více
+\*\*1 000 Kč - \*\*pozvánku na náš happening uvidí na Facebooku o 2000 uživatelů více
 
-**1 500 Kč - **zaplatíme dobrovolníkovi cestu do několika menších měst
+\*\*1 500 Kč - \*\*zaplatíme dobrovolníkovi cestu do několika menších měst
 
-**5 000 Kč - **články o naší práci na internetu uvidí o pár tisíc lidí více
+\*\*5 000 Kč - \*\*články o naší práci na internetu uvidí o pár tisíc lidí více
 
-**40 000 Kč - **zaplatíme za výlep plakátů v 600 malých obcích v kraji
+\*\*40 000 Kč - \*\*zaplatíme za výlep plakátů v 600 malých obcích v kraji
 
-**60 000 Kč - **natočíme profesionální volební video 
+\*\*60 000 Kč - \*\*natočíme profesionální volební video
 
-Preferovaným způsobem darování je převod na transparentní účet. Není nic jednoduššího než vyplnit údaje do našeho formuláře pro dary na [[https://wiki.pirati.cz/fo/dary|této]] stránce.
+Preferovaným způsobem darování je převod na transparentní účet. Není nic jednoduššího než vyplnit údaje do našeho formuláře pro dary: 
 
+https://wiki.pirati.cz/fo/dary 
 
-Pokud chcete přispět Pirátům **v Jihočeském kraji**, vyplňte, prosím, **SS 191200**.
+Pokud chcete přispět Pirátům **v jihočeském kraji**, vyplňte, prosím, **SS 191200**.
 
-Pokud Vás napadá jiná forma podpory, ozvěte se nám. 
+Pokud Vás napadá jiná forma podpory, ozvěte se nám.
 
-Na náš účet se nevztahuje bankovní tajemství a informace o platbách jsou veřejně dostupné prostřednictvím [[https://www.fio.cz/ib2/transparent?a=2100048174|internetu]]. Na transparentním účtu se vždy zobrazuje název účtu odesílatele.
+Na náš účet se nevztahuje bankovní tajemství a informace o platbách jsou veřejně dostupné prostřednictvím internetu. Na transparentním účtu se vždy zobrazuje název účtu odesílatele.
 
- 
+Transparentní účet: https://www.fio.cz/ib2/transparent?a=2100048174
 
 Předem Vám děkujeme za Vaši ochotu podílet se na Pirátské plavbě do sněmovny!
 
