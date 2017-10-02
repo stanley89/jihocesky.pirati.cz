@@ -16,8 +16,8 @@ priority nadcházejících voleb, zaměřil se na problémy kraje i nastínil je
 prestiže, jakou má stávající politika mezi lidmi. Přinášíme rozšířený přehled
 stanovisek pirátského lídra.
 
-Co považujete za nejdůležitější z
-programu Vaší strany? 
+**Co považujete za nejdůležitější z
+programu Vaší strany?**
 
 Nejdůležitější
 na našem programu je fakt, že tam, kde již nějaké pirátské zástupce máme, jej
@@ -34,8 +34,8 @@ zavedením elektronického spisu a zastavení hromadění exekucí. Mělo by pla
 jeden dlužník = jeden exekutor v místě bydliště. Kompletní pirátský program
 naleznete na našich internetových stránkách [www.pirati.cz](http://www.pirati.cz).
 
-Jaký je podle Vás největším
-problémem Jihočeského kraje? 
+**Jaký je podle Vás největším
+problémem Jihočeského kraje?**
 
 Špatná dopravní
 infrastruktura, malá kontrola toku veřejných peněz a ne vždy smysluplné
@@ -56,8 +56,8 @@ musí nastoupit kontrola. Piráti jsou jediná skutečně transparentní a otev�
 strana. To nejsou jen prázdná slova, o tom je možné se snadno přesvědčit. Vše,
 co hlásáme, uplatňujeme přímo sami na sobě v Pirátské straně.
 
-Jaké jsou podle Vás největší neduhy
-této společnosti? 
+**Jaké jsou podle Vás největší neduhy
+této společnosti?**
 
 Myslím, že
 ačkoliv jsou lidé dlouhodobě nespokojení, rezignovali na to situaci změnit.
@@ -67,8 +67,8 @@ době brán jako příživník, který krade. Zaměstnanci pracují za mzdu, kte
 mnohdy výsměchem. Schvalují se zákony výhodné pro úzké skupiny lidí, zneužívají
 se dotace a nadhodnocují zakázky. To není v pořádku.
 
-Jste pro přijetí eura, pokud ano
-v jakém časovém horizontu? 
+**Jste pro přijetí eura, pokud ano
+v jakém časovém horizontu?**
 
 Z dlouhodobého
 hlediska přijetí Eura podporuji, ale v současné době rizika převyšují klady,
