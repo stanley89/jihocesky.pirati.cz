@@ -80,7 +80,9 @@ připustit závažnost současné situace jižních států a vytvořit realisti
 pro její vyřešení. Do té doby je třeba s eurem počkat.
 
 **Jste spokojen s prestiží jakou má
-politika mezi lidmi? Pokud ne, co chcete dělat pro její zvýšení?** Rozhodně ne. Politika je mezi
+politika mezi lidmi? Pokud ne, co chcete dělat pro její zvýšení?** 
+
+Rozhodně ne. Politika je mezi
 lidmi vnímána jako něco špinavého. Politici se nedokážou domluvit ani na
 společných věcech z jejich programů. Neuplyne týden, kdy by se nemluvilo o
 nějaké korupční kauze. Je to tím, že lidé nemají možnost do politiky nahlédnout
