@@ -36,7 +36,7 @@ až 200 lidí, což dokazuje, že nezávislé centrum, které jsme v Kralově v
 za dva roky vybudovali, v Prachaticích chybí a že vila by měla
 v budoucnu využití,“ míní Barbora Staňková. Podle jejích slov není
 kulturní nabídka města Prachatice pro mladou generaci dostatečná a ani
-kvalitní. Oblíbené festivaly Mezibrány a Bohemia jazz fest byly navíc zrušeny. 
+kvalitní. Oblíbené festivaly Mezibrány a Bohemia jazz fest byly navíc zrušeny.
 
 „Protestní akcí jsme symbolicky poukázali
 na nesmyslnou politiku vedení města Prachatice, které účelně zanedbává snahu
@@ -67,10 +67,10 @@ Setkání před Kralovou vilou přijeli podpořit i další jihočeští
 Piráti. „Podle mého názoru spolek Živá vila objekt využil jak nesmysluplněji je
 to možné. Nerozumím tomu, že kulturní památka by měla být zbourána kvůli
 přeložce plánované v minulém režimu, která již ani nesplňuje technické
-parametry, navíc ani není potřeba. Otázkou pro všechny zůstává, co z toho
+parametry, navíc není potřeba. Otázkou pro všechny zůstává, co z toho
 bude kdo mít, kdo si namastí kapsu zničením významné stavby, která je součástí kulturního
 dědictví,“ dodává Jana Rohová, která je trojkou na pirátské kandidátce do
-sněmovny. 
+sněmovny.
 
 „Na happeningu se objevilo velké množství lidí, kterým osud vily
 není lhostejný a stejně jako já považují přeložku za holý nesmysl. I přes
