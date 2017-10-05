@@ -21,11 +21,11 @@ article img {
 }
 
 
-.c-welcome-header {
-  background: none;
-  /*background: url('/assets/img/mainback.jpg') no-repeat;*/
+/*.c-welcome-header {
+  background: url('/assets/img/cilovka.jpg') no-repeat;
   background-size: cover;
-}
+  height: 350px;
+}*/
 
 .pagination {
   list-style-type: none;
