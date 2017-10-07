@@ -30,3 +30,4 @@ nelituje odpoledne stráveného úklidem.
 akci zakončili opékáním buřtů. Jsem rád, že mnohým lidem není lhostejné, v jakém
 prostředí žijí a chtějí udělat pozitivní změnu,“ hodnotil celou akci Lukáš
 Kolářík, lídr jihočeské kandidátky do nadcházejících voleb. 
+
