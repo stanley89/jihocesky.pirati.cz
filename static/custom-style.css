@@ -31,6 +31,36 @@ article img {
   list-style-type: none;
 }
 
-.c-welcome-header .c-welcome-header-wrapper.c-welcome-header-wrapper--wbg:before {
-  background: none;
+.c-welcome-header {
+	height: 280px;
+}
+
+.c-welcome-header .c-welcome-header__quote {
+	padding-left: 1rem;
+}
+
+.c-welcome-header .c-welcome-header__quote::before {
+	content: none;
+}
+
+.c-welcome-header .c-welcome-header-wrapper.c-welcome-header-wrapper--wbg::before {
+  background: url("/assets/img/people-big.png") no-repeat;
+  width: 485px;
+  height: 225px;
+  background-size: 100%;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .c-welcome-header .c-welcome-header-wrapper.c-welcome-header-wrapper--wbg::before {
+    width: 280px;
+    height: 130px;
+  }
+
+  .c-welcome-header {
+    height: 330px;
+  }
+
+  .c-welcome-header .c-welcome-header__quote {
+    padding-top: 0;
+  }
 }
