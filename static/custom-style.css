@@ -1,7 +1,9 @@
 
 img.people {
-  width: 150px;
+  width: 166px;
   height: 250px;
+  object-fit: cover;
+  font-family: 'object-fit: cover;' /* polyfill for IE */
 }
 
 .top-bar-title {
