@@ -15,9 +15,9 @@ otázky proto směřovaly právě do oblastí, ve kterých se profesně pohybuje
 v nich značné nedostatky. V rozhovoru nastiňuje možné způsoby řešení.
 
 **Jak
-ses dostal k Pirátům a proč za ně kandiduješ do sněmovny?\
+ses dostal k Pirátům a proč za ně kandiduješ do sněmovny?**
 
-**K Pirátům
+K Pirátům
 mne přilákal Václav Urban, dále pak liberální, svobodný a demokratický cíl.
 Důvodem mé kandidatury je změna, kterou stav společnosti nutně potřebuje.
 Možná, že se vám budu zdát tvrdý ve svém konání a názorech, ale mou pracovní
@@ -28,9 +28,9 @@ pohodlností, a tak přistupuji i k celému životu.
 **Ve
 svém podnikání se zabýváš daňovým poradenstvím. Jak je to u nás s daněmi?
 Tvrdí se, že jsou příliš složité a je jich moc. Kde vidíš největší slabiny
-stávajícího systému?\
+stávajícího systému?**
 
-**Daně
+Daně
 jsou zbytečně složité a zaslouží si zjednodušení. Problém je však jejich správa,
 která neumožňuje rovnost přístupu a umožňuje úřednickou zvůli. Obrovskou část
 problému tvoří dotace poskytované přes různá ministerstva a jimi také kontrolované.
@@ -49,25 +49,25 @@ povinnosti. Pravý opak nám byl předveden u korunových dluhopisů.
 
 **Piráti
 navrhují jednu rovnou daň pro zdanění práce včetně odvodů. Ztotožňuješ se
-s tímto návrhem?\
+s tímto návrhem?**
 
-**Rovnou
+Rovnou
 daň ano, ale až po narovnání základních principů zdanění a daňového řízení.
 
 **Nepřišli
 by pak daňoví poradci o práci? Když by se daně zjednodušili a mohli si je lidé
-vykazovat on-line, jak chtějí Piráti?\
+vykazovat on-line, jak chtějí Piráti?**
 
-**Myslím,
+Myslím,
 že nepřišli. Myslím si, že s jakýmkoliv zdaněním budou lidé nějakou formu odbornosti
 potřebovat.
 
 **Piráti
 nechtějí zavést třetí a čtvrtou vlnu EET, současně by rádi zrušili EET pro
 e-shopy, platby kartou a drobné podnikatele. Jak se ty stavíš
-k elektronické evidenci tržeb jako nástroji pro výběr daní?\
+k elektronické evidenci tržeb jako nástroji pro výběr daní?**
 
-**EET
+EET
 má své opodstatnění v současném stavu společnosti a její vůli platit daně.
 EET určitě vyžaduje systémovou změnu vedoucí ke zjednodušenému výběru daní. Zavedení
 EET však neměla vést k rozporům ve společnosti a kriminalizovat některé
@@ -75,9 +75,9 @@ skupiny lidí.
 
 **Podnikáš
 i v zemědělství a Piráti by rádi podporovali menší zemědělské podniky a
-farmáře? Jak vidíš tuto problematiku?\
+farmáře? Jak vidíš tuto problematiku?**
 
-**Zemědělství
+Zemědělství
 je stejně rozsypané jako ty daně. Za správnou považuji podporu malých a
 středních zemědělců s produkcí. Ty velké musíme donutit k zamyšlení
 nad svým přístupem k samotné podstatě výroby, vtahu k přírodě a zdraví
@@ -88,8 +88,8 @@ využít. Zemědělské dotace jsou základem pro zkreslení celého tohoto syst
 
 **Jak
 by se podle Pirátů zkrátili obchodní řetězce potravin od výrobce ke
-spotřebiteli, co navrhují také Piráti?\
+spotřebiteli, co navrhují také Piráti?**
 
-**Možná,
+Možná,
 že by bylo řešení mít svého farmáře, podpořit ho ve zpracování, ale to začínáme
 znovu od začátku. Asi nám nic jiného nezbývá….
