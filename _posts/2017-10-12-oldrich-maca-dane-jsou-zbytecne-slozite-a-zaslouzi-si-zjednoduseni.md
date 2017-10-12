@@ -94,7 +94,7 @@ Možná,
 že by bylo řešení mít svého farmáře, podpořit ho ve zpracování, ale to začínáme
 znovu od začátku. Asi nám nic jiného nezbývá….
 
-**Odkazy na program: **
+**Odkazy na program:** 
 
 [Zemědělství](https://www.pirati.cz/program/psp2017/zemedelstvi/)
 
