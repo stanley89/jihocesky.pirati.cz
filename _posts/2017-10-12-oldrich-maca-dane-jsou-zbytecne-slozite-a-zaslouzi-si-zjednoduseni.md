@@ -99,3 +99,4 @@ znovu od začátku. Asi nám nic jiného nezbývá….
 [Zemědělství](https://www.pirati.cz/program/psp2017/zemedelstvi/)
 
 [Finance](https://www.pirati.cz/program/psp2017/finance/)
+
