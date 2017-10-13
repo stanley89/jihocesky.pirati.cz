@@ -62,7 +62,7 @@ ohledech profesionalizovala, stala se čitelnější pro voliče a začala být 
 vidět.
 
 **Jaké
-formy kampaně Piráti využívají?** 
+formy kampaně Piráti využívají?**
 
 Piráti nejvíce spoléhají na kontaktní kampaň, při
 které se setkávají s lidmi, hovoří s nimi o svém programu a
@@ -70,7 +70,7 @@ vysvětlují svá stanoviska. Rozdáváme Pirátské listy v ulicích, pořád�
 besedy na různá témata, děláme koncerty kapel, které nespadají pod ochranný
 svaz autorský (OSA). Podílíme se také na veřejně prospěšných projektech, ať už
 jsou to úklidové akce v různých městech nebo charitativní koncerty,
-jejichž výtěžek vždy putuje někomu, kdo je potřebuje (autumnnight.cz). Tyto
+jejichž výtěžek vždy putuje někomu, kdo je potřebuje ([autumnnight.cz](https://www.autumnnight.cz)). Tyto
 věci děláme ale konstantně, ne jen v předvolebním období.
 
 Inzerci v tisku si neplatíme a billboardy také
