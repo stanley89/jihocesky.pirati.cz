@@ -46,6 +46,8 @@ sítích, kteří uvádějí na pravou míru náš program…a tak bych mohla po
 
 ![null](/assets/img/posts/Máj cb.jpg)
 
+![null](/assets/img/posts/P_20170827_143407.jpg)
+
 **Jsi
 u Pirátů již od roku 2013. V čem je tato poslední kampaň jiná, je
 profesionálněji připravená?**
@@ -60,7 +62,7 @@ ohledech profesionalizovala, stala se čitelnější pro voliče a začala být 
 vidět.
 
 **Jaké
-formy kampaně Piráti využívají? **
+formy kampaně Piráti využívají?** 
 
 Piráti nejvíce spoléhají na kontaktní kampaň, při
 které se setkávají s lidmi, hovoří s nimi o svém programu a
@@ -82,6 +84,10 @@ Při naší kampani nepůsobíme na chuťové buňky voličů
 ani jim nenabízíme laciná hesla. Myslím, že kampaň děláme tak, aby si ji
 všichni užili, byla příjemná a měla nějakou přidanou hodnotu.
 
+![null](/assets/img/posts/21055173_10155602735962114_3713276285299071529_o.jpg)
+
+![null](/assets/img/posts/IMG_20170415_155717.jpg)
+
 **Jak
 hodnotíš cesty s pirátským autobusem po jihočeských městech? Která všechna
 města navštívil a s jakým ohlasem?**
@@ -100,6 +106,10 @@ Reakce veřejnosti byly veskrze pozitivní. Lidé se
 doptávali na náš program, ujasňovali si některá stanoviska, nosili nám jídlo,
 kávu a při nepřízni počasí dokonce deštníky. Za to bych jim všem ráda
 poděkovala.
+
+![null](/assets/img/posts/IMG_20170917_160317.jpg)
+
+![null](/assets/img/posts/DSC_1598.jpg)
 
 **Jaký
 je tvůj odhad volebního výsledku Pirátů, celkového a na Jihu Čech?**
