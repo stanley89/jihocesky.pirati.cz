@@ -70,7 +70,7 @@ vysvětlují svá stanoviska. Rozdáváme Pirátské listy v ulicích, pořád�
 besedy na různá témata, děláme koncerty kapel, které nespadají pod ochranný
 svaz autorský (OSA). Podílíme se také na veřejně prospěšných projektech, ať už
 jsou to úklidové akce v různých městech nebo charitativní koncerty,
-jejichž výtěžek vždy putuje někomu, kdo je potřebuje ([autumnnight.cz](https://www.autumnnight.cz)). Tyto
+jejichž výtěžek vždy putuje někomu, kdo je potřebuje ([Autumnnight](http://www.autumnnight.cz/)). Tyto
 věci děláme ale konstantně, ne jen v předvolebním období.
 
 Inzerci v tisku si neplatíme a billboardy také
