@@ -42,11 +42,7 @@ s personálním zajištěním akcí, dobrovolníky na kontaktní kampaň
 v ulicích, kteří rozdávají Pirátské listy a vysvětlují lidem náš program.
 Nesmím zapomenout ani na spoustu ochotných řidičů, kteří dopravují materiály
 z bodu A do bodu B podle aktuálních požadavků, odpovídače na sociálních
-sítích, kteří uvádějí na pravou míru náš program…a tak bych mohla pokračovat. 
-
-![null](/assets/img/posts/22136989_10155705549487114_4285642000303673353_o.jpg)
-
-![null](/assets/img/posts/P_20170827_143407.jpg)
+sítích, kteří uvádějí na pravou míru náš program…a tak bych mohla pokračovat.
 
 ![null](/assets/img/posts/Máj cb.jpg)
 
@@ -61,7 +57,7 @@ každý dělal, co uměl, a jak nejlépe to uměl. Chybělo nám však jakési z
 a koordinace shora. Přesto na tu dobu vzpomínám ráda, všichni jsme se navzájem
 znali a byli jsme jedna velká parta kamarádů. Od té doby se strana v mnoha
 ohledech profesionalizovala, stala se čitelnější pro voliče a začala být více
-vidět. 
+vidět.
 
 **Jaké
 formy kampaně Piráti využívají? **
@@ -80,15 +76,11 @@ nemáme (kromě těch, které nám nabídli naši podporovatelé), používáme 
 které distribuujeme našim podporovatelům a ti si je vyvěšují na ploty či
 balkony. Při kampani jsme také použili solární loď či Pirátský vězeňský
 autobus. A protože „sharing is caring“, moravští Piráti nám zapůjčili svou
-Pirátskou nafukovací skákací loď. 
+Pirátskou nafukovací skákací loď.
 
 Při naší kampani nepůsobíme na chuťové buňky voličů
 ani jim nenabízíme laciná hesla. Myslím, že kampaň děláme tak, aby si ji
 všichni užili, byla příjemná a měla nějakou přidanou hodnotu.
-
-![null](/assets/img/posts/21055173_10155602735962114_3713276285299071529_o.jpg)
-
-![null](/assets/img/posts/IMG_20170415_155717.jpg)
 
 **Jak
 hodnotíš cesty s pirátským autobusem po jihočeských městech? Která všechna
@@ -107,11 +99,7 @@ s autobusem celou tour po našem kraji.
 Reakce veřejnosti byly veskrze pozitivní. Lidé se
 doptávali na náš program, ujasňovali si některá stanoviska, nosili nám jídlo,
 kávu a při nepřízni počasí dokonce deštníky. Za to bych jim všem ráda
-poděkovala. 
-
-![null](/assets/img/posts/IMG_20170917_160317.jpg)
-
-![null](/assets/img/posts/DSC_1598.jpg)
+poděkovala.
 
 **Jaký
 je tvůj odhad volebního výsledku Pirátů, celkového a na Jihu Čech?**
@@ -119,7 +107,7 @@ je tvůj odhad volebního výsledku Pirátů, celkového a na Jihu Čech?**
 Podle posledních průzkumů mají Piráti volební
 potenciál kolem 14%, i když si troufám odhadovat, že na Jihu to je o něco méně.
 Aktivně se snažíme přesvědčovat lidi, jak je důležité jít k volbám. Jsem
-od narození optimista, takže si myslím, že těch 10% dáme. 
+od narození optimista, takže si myslím, že těch 10% dáme.
 
 Pomůžete nám k nim?
 
