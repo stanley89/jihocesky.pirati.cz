@@ -19,4 +19,4 @@ V rámci kraje se našim zastupitelům daří úspěšně zavádět transparentn
 - [Tábor](http://tabor.pirati.cz) jsme součástí hnutí [JINAK!](http://www.taborjinak.cz), které má tři zastupitele.
 - [Trhové Sviny](http://volbats.cz/): Náš člen Petr Steinbauer prosazuje Pirátský program ve spolupráci s [Volbou pro město](http://volbats.cz/).
 - [Týn nad Vltavou](https://www.facebook.com/PiratiTyn/)
-- [České Budějovice](https://www.facebook.com/PiratiCB/)
+- [Českobudějovicko](https://www.facebook.com/PiratiCB/)
