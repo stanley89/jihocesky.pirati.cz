@@ -39,6 +39,8 @@ záležitost pouze na internetu. Jsou to takový klávesnicový hrdinové, na ul
 vám to do očí nikdo neřekne. Já jsem s průběhem kampaně spokojený, probíhá
 převážně v pozitivním duchu a věřím, že to naši voliči ocení.
 
+![null](/assets/img/posts/pisek 6.jpg)
+
 **Hlavně
 na sociálních sítích, ale i v televizních debatách se objevovaly čím dál
 častější útoky na Piráty. Dá se to vysvětlit tím nárůstem preferencí posledních
@@ -64,6 +66,8 @@ se mně osobně líbí. Když někdo dokáže účelově měnit informace v čl
 jak se mu to hodí o Pirátech, přestal jsem si dělat iluze, že se to neděje ani
 v případě ostatních politických stran nebo přímo politiků.
 
+![null](/assets/img/posts/20413936_10203621448373258_8599705583243867368_o.jpg)
+
 **Jak
 vzpomínáš na kontaktní kampaň a putování s Pirátským autobusem po jižních
 Čechách?**
@@ -78,6 +82,8 @@ Také bylo zajímavé sledovat, jak se postupy při povolování záboru a stán
 autobusu liší město od města. Ani ne tak v počtu různých povolení, těch
 bylo třeba všude hodně, ale v přístupu těch úředníků. Někteří ochotně
 s vyřízením pomohli, jinde dělali takříkajíc ofuky.
+
+![null](/assets/img/posts/21767092_10207619875694694_70739448_o.jpg)
 
 **Jak
 podle tebe Jihočeši vnímají teď před volbami Pirátskou stranu? Mají o ní větší
@@ -96,6 +102,8 @@ vidět, více než v předchozích letech. Naše kampaň stojí na dobrovolníc
 kteří nám pomáhají. Za to bych jim chtěl moc poděkovat. Bez nich bychom tam,
 kde jsme dnes, tedy před branami poslanecké sněmovny, nebyli.
 
+![null](/assets/img/posts/20428023_1580407791980886_1923211720_n.jpg)
+
 **Máme
 několik posledních dní před volbami. Co bys vzkázal zatím nerozhodnutým
 voličům, proč by měli volit Piráty?**
@@ -113,4 +121,3 @@ kteří normálně pracují a Pirátům se věnují ve svém volnu, nejsme odtr�
 reality. Rozkrýváme kauzy a bojujeme za svobodnější svět. Jsme jediná skutečně
 transparentní, středová, liberální strana s důrazem na svobodu jednotlivce
 v České Republice. Tak pusťte nás na ně, porveme se za vás.
-
