@@ -18,9 +18,9 @@ stoupajících preferencích šířit nejen virtuálním prostorem.
 **Poslední
 měsíc byl pro tebe jistě hektický, finišovala kampaň a lídři stran byli zváni
 na rozhovory do různých médií. Jak jsi tyto poslední týdny prožíval? Co tě
-potěšilo a co naopak rozzlobilo?\
+potěšilo a co naopak rozzlobilo?**
 
-**Poslední
+Poslední
 dny jsou opravdu náročné a ještě chvíli budou. Poslední 3 týdny jedu opravdu
 naplno. Dopoledne pracuji, odpoledne dělám kontaktní kampaň v jihočeských
 městech a večer odpovídám na spousty dotazů na facebooku nebo v e-mailu,
@@ -41,10 +41,10 @@ převážně v pozitivním duchu a věřím, že to naši voliči ocení.
 
 **Hlavně
 na sociálních sítích, ale i v televizních debatách se objevovaly čím dál
-častější útoky na Piráty? Dá se to vysvětlit tím nárůstem preferencí posledních
-dnů a týdnů?\
+častější útoky na Piráty. Dá se to vysvětlit tím nárůstem preferencí posledních
+dnů a týdnů?**
 
-**To
+To
 se dalo celkem čekat, že se to stane. Ze začátku se nám ostatní spíše smáli,
 naráželi na „dobrej matroš“, „námořní lupiče“ a podobně. Když nám ale volební
 průzkumy začali přisuzovat větší a větší podporu a stabilně jsme vycházeli přes
@@ -66,9 +66,9 @@ v případě ostatních politických stran nebo přímo politiků.
 
 **Jak
 vzpomínáš na kontaktní kampaň a putování s Pirátským autobusem po jižních
-Čechách?\
+Čechách?**
 
-**S úsměvem
+S úsměvem
 na rtech. Během této tour jsem poznal spousty příjemných lidí. Většina lidí náš
 autobus přijala kladně. Okukovali jej a někteří se s ním fotili. Nikdo na
 něj nehrozil pěstí. Nejvíce lidi překvapovalo, že je to skutečný vězeňský
@@ -77,13 +77,13 @@ prohlídku, tak překvapeně sledovali vybavení autobusu, zabedněná okna a m�
 Také bylo zajímavé sledovat, jak se postupy při povolování záboru a stání
 autobusu liší město od města. Ani ne tak v počtu různých povolení, těch
 bylo třeba všude hodně, ale v přístupu těch úředníků. Někteří ochotně
-s vyřízením pomohli, jinde dělali takříkajíc ofuky. 
+s vyřízením pomohli, jinde dělali takříkajíc ofuky.
 
 **Jak
 podle tebe Jihočeši vnímají teď před volbami Pirátskou stranu? Mají o ní větší
-povědomí než dřív?\
+povědomí než dřív?**
 
-**Určitě
+Určitě
 mají, denně mi volají a píší lidé, kteří mají nějaký dotaz, v ulicích se
 lidé aktivně zastavují a chtějí Piráty osobně poznat. Zvýšený zájem je i od
 médií, zvou nás na debaty do TV, do rozhlasu, ozývají se i tištěné deníky. Neziskovky
@@ -98,9 +98,9 @@ kde jsme dnes, tedy před branami poslanecké sněmovny, nebyli.
 
 **Máme
 několik posledních dní před volbami. Co bys vzkázal zatím nerozhodnutým
-voličům, proč by měli volit Piráty?\
+voličům, proč by měli volit Piráty?**
 
-**Nerozhodnutých
+Nerozhodnutých
 voličů je letos hodně. Vzkázal bych jim, ať se nerozhodují podle pocitů a
 emocí. Podívejte se, co vám ta která strana slibuje a co se jí z toho
 povedlo opravdu dotáhnout. Podívejte se, jak je pro ně jejich program důležitý.
