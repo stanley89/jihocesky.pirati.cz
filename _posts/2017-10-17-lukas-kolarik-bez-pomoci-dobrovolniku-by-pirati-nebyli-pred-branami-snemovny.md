@@ -121,3 +121,4 @@ kteří normálně pracují a Pirátům se věnují ve svém volnu, nejsme odtr�
 reality. Rozkrýváme kauzy a bojujeme za svobodnější svět. Jsme jediná skutečně
 transparentní, středová, liberální strana s důrazem na svobodu jednotlivce
 v České Republice. Tak pusťte nás na ně, porveme se za vás.
+
