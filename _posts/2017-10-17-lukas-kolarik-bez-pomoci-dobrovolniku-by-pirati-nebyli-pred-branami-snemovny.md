@@ -35,7 +35,7 @@ kampaň, co pro Piráty dělám a ještě nikdy takto velký zájem veřejnosti 
 pořád na něco zlobil. Spíš se snažím o věcech přemýšlet a pochopit jejich
 podstatu a motivaci ostatních lidí. Trošku mě mrzely urážky, slovní napadání a
 vyhrožování od některých voličů konkurenčních stran, ale musím říct, že je to
-záležitost pouze na internetu. Jsou to takový klávesnicový hrdinové, na ulici
+záležitost pouze na internetu. Jsou to takoví klávesnicoví hrdinové, na ulici
 vám to do očí nikdo neřekne. Já jsem s průběhem kampaně spokojený, probíhá
 převážně v pozitivním duchu a věřím, že to naši voliči ocení.
 
@@ -49,7 +49,7 @@ dnů a týdnů?**
 To
 se dalo celkem čekat, že se to stane. Ze začátku se nám ostatní spíše smáli,
 naráželi na „dobrej matroš“, „námořní lupiče“ a podobně. Když nám ale volební
-průzkumy začali přisuzovat větší a větší podporu a stabilně jsme vycházeli přes
+průzkumy začaly přisuzovat větší a větší podporu a stabilně jsme vycházeli přes
 5%, začalo to být cítit i v tom mediálním prostoru. Zmizel ten nadhled a
 rádoby vtipné a zlehčující narážky a začal tvrdý boj. Bohužel to ale nebyl boj
 argumenty, ale spíše rozšiřováním nepravd, vytrhováním věcí z kontextu a
@@ -121,4 +121,3 @@ kteří normálně pracují a Pirátům se věnují ve svém volnu, nejsme odtr�
 reality. Rozkrýváme kauzy a bojujeme za svobodnější svět. Jsme jediná skutečně
 transparentní, středová, liberální strana s důrazem na svobodu jednotlivce
 v České Republice. Tak pusťte nás na ně, porveme se za vás.
-
