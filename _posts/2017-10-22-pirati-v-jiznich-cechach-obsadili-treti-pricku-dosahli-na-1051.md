@@ -16,43 +16,37 @@ tomu dosáhla Pirátská strana v Jihočeském kraji skvělého třetího míst
 s 10,51 % hlasy a získala jednoho poslance. Tím se stal jihočeský pirátský
 lídr **Lukáš Kolářík**.
 
- 
-
 Přinášíme výsledky větších měst
 \(nárůst oproti minulým volbám do poslanecké sněmovny). Ve výčtu měst měli
 nejlepší výsledek v Týně nad Vltavou (14 %) a v rodném městečku lídra
 Lukáše Koláříka v Katovicích 13,84%.
 
- 
-
 **Jihočeský kraj: 10,51 % (\+ 8,14 %)**
 
- 
+Týn nad Vltavou 14,01 % (\+ 11,44 %)
 
-Týn nad Vltavou 14,01 % (\+ 11,44 %)\
+Tábor 12,77 % (\+ 9,98 %)
 
-Tábor 12,77 % (\+ 9,98 %)\
+Písek 12,67 % (\+ 10,08 %)
 
-Písek 12,67 % (\+ 10,08 %)\
+Blatná 11,85 % (\+ 8,82 %)
 
-Blatná 11,85 % (\+ 8,82 %)\
+Jindřichův Hradec 11,7 % (\+ 9,32 %)
 
-Jindřichův Hradec 11,7 % (\+ 9,32 %)\
-
-Milevsko 11,5 % (\+ 8,84 %)\
+Milevsko 11,5 % (\+ 8,84 %)
 
 Český Krumlov 11,04 % (\+9,8 %)
 
 České Budějovice 11,02 % (\+
-8,95 %)\
+8,95 %)
 
-Strakonice 11 % (\+ 8,18 %)\
+Strakonice 11 % (\+ 8,18 %)
 
-Třeboň 10,73 % (\+ 8,83 %)\
+Třeboň 10,73 % (\+ 8,83 %)
 
-Soběslav 10,68 % (\+ 8,8 %)\
+Soběslav 10,68 % (\+ 8,8 %)
 
-Prachatice 10,18 % (\+ 7,74 %)\
+Prachatice 10,18 % (\+ 7,74 %)
 
 Vimperk 8,81 % (\+ 6,26 %)
 
@@ -64,6 +58,6 @@ tedy 10,79 % a Piráti budou mít celkem 22 poslanců.
 
 S vaší
 podporou budeme denně pracovat na zprůhlednění veřejných financích a kontroly
-moci a mocných. Díky a držte nám palce, sledujte nás ![;-)](file:///C:\\Users\\JANINK\~1\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image002.gif)
+moci a mocných. Díky a držte nám palce, sledujte nás! 
 
 Podrobné výsledky naleznete na **[volby.cz](https://www.volby.cz)**
