@@ -10,9 +10,9 @@ image: /assets/img/posts/výsledky Písek.JPG
 description: výsledky voleb
 tags: Pisek
 ---
-*V následujících
+V následujících
 zprávách se podíváme do jednotlivých okresů Jihočeského kraje na volební
-výsledky Pirátské strany ve městech a obcích. *
+výsledky Pirátské strany ve městech a obcích. 
 
 Písecko bylo významnou pirátskou baštou komunálních
 i krajských voleb Jihočeského kraje, ve sněmovních volbách si vedlo také slušně
@@ -36,4 +36,4 @@ dokonce druhé místo.
 Výsledky odrážejí nejen celostátní kampaň programu
 Černé na bílém s hlavním sloganem Pusťte nás na ně, viditelnost Ivana Bartoše a
 dalších Pirátů v médiích, ale také kontaktní kampaň v regionu –
-rozdávání Pirátských listů, bannery na domech sympatizantů apod. 
+rozdávání Pirátských listů, bannery na domech sympatizantů apod.
