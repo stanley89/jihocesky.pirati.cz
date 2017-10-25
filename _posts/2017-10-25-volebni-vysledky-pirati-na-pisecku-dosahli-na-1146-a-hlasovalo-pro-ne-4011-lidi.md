@@ -37,3 +37,4 @@ Výsledky odrážejí nejen celostátní kampaň programu
 Černé na bílém s hlavním sloganem Pusťte nás na ně, viditelnost Ivana Bartoše a
 dalších Pirátů v médiích, ale také kontaktní kampaň v regionu –
 rozdávání Pirátských listů, bannery na domech sympatizantů apod.
+
