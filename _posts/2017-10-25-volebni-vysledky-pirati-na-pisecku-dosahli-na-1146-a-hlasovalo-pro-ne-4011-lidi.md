@@ -5,7 +5,7 @@ title: >-
   Volební výsledky – Piráti na Písecku dosáhli na 11,46 % a hlasovalo pro ně
   4011 lidí
 date: 2017-10-25T10:01:09.309Z
-author: Zbyněk Konvička
+author: 'Zbyněk Konvička, Jana Rohová'
 image: /assets/img/posts/výsledky Písecko.JPG
 description: výsledky voleb
 tags: Pisek
@@ -42,6 +42,7 @@ rozdávání Pirátských listů, bannery na domech sympatizantů apod.
 o obce s nejlepším výsledkem nad 12 %:**
 
 ![null](/assets/img/posts/výsledky pisek 2.JPG)
+
 
 
 
