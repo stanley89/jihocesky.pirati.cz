@@ -10,7 +10,7 @@ tags: Strakonice
 ---
 V další
 zprávě zavítáme na Strakonicko a podíváme se na volební výsledky Pirátské
-strany ve městech a obcích podrobněji. 
+strany ve městech a obcích podrobněji.
 
 Strakonicko je ve srovnání se sousedním Píseckem
 trochu jiné. Má více menších obcí a výsledky pro Piráty mají velký rozptyl.
@@ -45,4 +45,4 @@ s nejlepším výsledkem nad 12 %:**
 
 ![null](/assets/img/posts/výsledky Strakonicko.JPG)
 
-
+Podrobné výsledky na stránkách **[volby.cz](https://volby.cz/) **nebo** [irozhlas.cz](https://www.irozhlas.cz/volby/parlamentni-volby-2017)**.
