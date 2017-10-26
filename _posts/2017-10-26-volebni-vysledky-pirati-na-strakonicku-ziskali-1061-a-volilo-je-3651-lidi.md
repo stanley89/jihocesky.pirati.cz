@@ -8,9 +8,9 @@ image: /assets/img/posts/graf Strakonice.JPG
 description: výsledky voleb
 tags: Strakonice
 ---
-*V další
+V další
 zprávě zavítáme na Strakonicko a podíváme se na volební výsledky Pirátské
-strany ve městech a obcích podrobněji. *
+strany ve městech a obcích podrobněji. 
 
 Strakonicko je ve srovnání se sousedním Píseckem
 trochu jiné. Má více menších obcí a výsledky pro Piráty mají velký rozptyl.
@@ -26,7 +26,7 @@ Piráty výsledky následující: Blatná (11,85%), Vodňany (9,22%) a Volyně
 
 Nejvíce preferenčních hlasů v okrese Strakonice
 získali: 1. Lukáš Kolářík (213 hlasů), 2. Jana Rohová (173 hlasů) a 3. Markéta
-Kastnerová (94 hlasů).  
+Kastnerová (94 hlasů).
 
 **Ve
 třech obcích dokonce Piráti zvítězili – v Bratronicích, Hajanech a
