@@ -10,8 +10,8 @@ image: /assets/img/posts/Prachaticko graf.JPG
 description: výsledky voleb
 tags: Prachatice
 ---
-*Třetím
-okresem, z něhož přinášíme podrobné výsledky, je Prachaticko . *
+Třetím
+okresem, z něhož přinášíme podrobné výsledky, je Prachaticko. 
 
 Celková volební účast byla v okrese 58,10%. Nejvyšší
 volební účast byla v obci Kvilda (86,15 %).
@@ -25,7 +25,7 @@ pro Piráty výsledky následující: Vimperk (8,81%), Netolice (6,84%) a Volary
 
 Nejvíce preferenčních hlasů v okrese Prachatice
 získali: 1. Barbora Staňková (103 hlasů), 2. Markéta Kastnerová (77 hlasů) a 3.
-Lukáš Kolářík (63 hlasů).  
+Lukáš Kolářík (63 hlasů).
 
 **V
 obci Kubova Huť dokonce Piráti zvítězili s 18,05%, čímž se turistická obec
@@ -37,7 +37,7 @@ Na Prachaticku získali Piráti kolem čtvrtiny hlasů
 v okresním městě Prachaticích. Prachaticko má sice o něco horší výsledky
 než Písecko a Strakonicko, přesto vzhledem k tomu, že zde zatím není
 zřízené místní pirátské sdružení a na kandidátce byla pouze jediná kandidátka
-Barbora Staňková z Prachatic, lze je považovat za úspěšné.  
+Barbora Staňková z Prachatic, lze je považovat za úspěšné.
 
 **Obce
 s nejlepším výsledkem nad 12 %:**
