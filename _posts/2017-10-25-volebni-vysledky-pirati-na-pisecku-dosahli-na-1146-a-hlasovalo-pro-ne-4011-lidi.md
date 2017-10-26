@@ -43,4 +43,4 @@ o obce s nejlepším výsledkem nad 12 %:**
 
 ![null](/assets/img/posts/výsledky pisek 2.JPG)
 
-Podrobné výsledky na stránkách **[volby.cz](https://volby.cz/) **nebo** [irozhlas.cz](https://www.irozhlas.cz/volby/parlamentni-volby-2017)**.
+Podrobné výsledky na stránkách [volby.cz](https://volby.cz)
