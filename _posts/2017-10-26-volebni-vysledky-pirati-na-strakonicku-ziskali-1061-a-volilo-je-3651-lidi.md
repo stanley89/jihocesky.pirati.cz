@@ -46,3 +46,4 @@ s nejlepším výsledkem nad 12 %:**
 ![null](/assets/img/posts/výsledky Strakonicko.JPG)
 
 Podrobné výsledky na stránkách [volby.cz](https://volby.cz)
+
