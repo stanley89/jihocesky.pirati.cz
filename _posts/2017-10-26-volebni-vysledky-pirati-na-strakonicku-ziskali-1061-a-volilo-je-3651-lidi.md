@@ -47,3 +47,4 @@ s nejlepším výsledkem nad 12 %:**
 
 Podrobné výsledky na stránkách [volby.cz](https://volby.cz)
 
+
