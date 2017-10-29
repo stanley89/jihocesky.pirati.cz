@@ -44,3 +44,4 @@ s nejlepším výsledkem nad 12 %:**
 ![null](/assets/img/posts/krumlov tabulka.JPG)
 
 Podrobné výsledky na [volby.cz](https://www.volby.cz)
+
