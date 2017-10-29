@@ -10,8 +10,8 @@ image: /assets/img/posts/krumlov graf.JPG
 description: volební výsledky
 tags: Český Krumlov
 ---
-*Dalším
-okresem, z něhož přinášíme podrobné výsledky, je Českokrumlovsko. *
+Dalším
+okresem, z něhož přinášíme podrobné výsledky, je Českokrumlovsko. 
 
 Celková volební účast byla v okrese 57,75%. Nejvyšší
 volební účast byla v obci Chlumec (87,17 %).
@@ -25,18 +25,18 @@ Brod (7,81%).
 
 Nejvíce preferenčních hlasů v okrese Prachatice
 získali: 1. Markéta Kastnerová (102 hlasů), 2. Lukáš Kolářík (66 hlasů) a 3. Dan
-Leština (57 hlasů).  
+Leština (57 hlasů).
 
-**Pirátskou
+Pirátskou
 baštou na Českokrumlovsku se stala turistická obec Lipno nad Vltavou se 14,14 %
-hlasů. **Druhé místo pak obsadili ve 2 obcích: Křemže a
+hlasů. \*\*Druhé místo pak obsadili ve 2 obcích: Křemže a
 Malšín. Nad 12% se pak dostaly 4 obce.
 
 Na Českokrumlovsku získali Piráti více než čtvrtinu
 hlasů v okresním městě Českém Krumlově. Přestože v okrese zatím
 neexistuje místní pirátské sdružení a v době voleb tam nebyl žádný aktivní
 člen strany, dosáhl tento pošumavský okres nad 9 % a měl o něco lepší výsledky
-než sousední Prachaticko.  
+než sousední Prachaticko.
 
 **Obce
 s nejlepším výsledkem nad 12 %:**
