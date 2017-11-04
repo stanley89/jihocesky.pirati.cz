@@ -10,10 +10,10 @@ image: /assets/img/posts/JH graf.JPG
 description: volby
 tags: Jindřichohradecko
 ---
-*V další
+V další
 zprávě se podíváme na Jindřichohradecko, územně největšího jihočeského okresu a
 druhého největšího v republice. Region je třetím v pořadí počtu
-obyvatel v kraji. Okres má také velké množství především malých obcí.  *
+obyvatel v kraji. Okres má také velké množství především malých obcí. 
 
 Jindřichohradecko přispělo ke konečnému výsledku
 Pirátů na jihu Čech významnou měrou.  Celková volební účast byla v okrese 61,10 %.
@@ -24,7 +24,7 @@ na Jindřichohradecku volilo Piráty 4668 lidí, což činí 10,28 %.**
 Z toho přímo v bývalém okresním městě Jindřichův Hradec volilo Piráty
 1221 lidí (11,7 %). Nejvíce preferenčních hlasů v okrese Písek získali: 1.
 Oldřich Máca (271 hlasů), 2. Lukáš Kolářík (135 hlasů) a 3. Václav Urban (133
-hlasů) 
+hlasů)
 
 Velmi dobré výsledky s více než 12% ziskem
 hlasů měli Piráti ve 27 obcích (stejně jako na Písecku). V devíti obcích
@@ -36,7 +36,7 @@ Na Jindřichohradecku více než čtvrtinu hlasů
 zajistil Jindřichův Hradec. Podpora Pirátů byla však napříč okresem rozložena
 vcelku rovnoměrně. Jistě se projevila intenzivní kampaň a podpora od
 dobrovolníků – rozdávání Pirátských listů, pirátské bannery na domech
-sympatizantů apod. 
+sympatizantů apod.
 
 **Města
 o obce s nejlepším výsledkem nad 12 %:**
