@@ -16,24 +16,24 @@ se nachází vedle divadla - Tylova, 39701 Písek)
 
 Program zasedání:
 
-Představení nových tváří\
+Představení nových tváří
 
-Představení procesu přijímání nových členů\
+Představení procesu přijímání nových členů
 
 Diskuze o nadcházející volbě předsednictva (možnost oznámení
-kandidatury do předsednictva)\
+kandidatury do předsednictva)
 
-Shrnutí voleb 2017\
+Shrnutí voleb 2017
 
-příprava na komunální volby 2018\
+příprava na komunální volby 2018
 
-Zprávy z republikového výboru\
+Zprávy z republikového výboru
 
-Zprávy z jednotlivých místních sdružení\
+Zprávy z jednotlivých místních sdružení
 
-Slovo koordinátora\
+Slovo koordinátora
 
-Mediální odbor Jihočeského kraje\
+Mediální odbor Jihočeského kraje
 
 Diskuze
 
