@@ -40,3 +40,4 @@ Diskuze
 Předpokládaný konec: 18:00
 
 Všichni jste srdečně zváni!
+
