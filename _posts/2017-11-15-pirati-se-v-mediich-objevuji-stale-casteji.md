@@ -15,7 +15,7 @@ prostředí, výjimku tvoří 23. říjen, kdy se o Pirátech psalo více
 v tištěných médiích díky úspěchu ve sněmovních volbách.
 
 Pro zajímavost: pouze **14. listopadu** bylo o Pirátech vydáno **144 článků**. Nejvíce (33) textů přinesly Krajské listy.
-V televizi se o Pirátské straně hovořilo 6 x, v rozhlase 3 x, 14 x
+V televizi se o Pirátské straně hovořilo 6x, v rozhlase 3x, 14x
 v tisku a 121x v on-line 
 médiích. Nejvíce se psalo o tématu obsazení poslaneckých výborů,
 povolebním vyjednávání, o hledání asistentů pro pirátské poslance nebo o
@@ -26,5 +26,4 @@ zvýšeném zájmu o členství v Pirátské straně mezi lidmi.
 V jihočeských médiích se o Pirátech psalo za
 posledních 30 dní 48 krát. Například vyšly články s pirátským lídrem a poslancem
 Lukášem Koláříkem, které naleznete v MF DNES a 5plus2 nebo rozhovor
-s Pirátem Martinem Kákonou na portálu [Jižní Čechy Teď](http://www.jcted.cz/taborsko/povolebni-ozveny-dnes-s-piratem-martinem-kakonou/). 
-
+s Pirátem Martinem Kákonou na portálu [Jižní Čechy Teď](http://www.jcted.cz/taborsko/povolebni-ozveny-dnes-s-piratem-martinem-kakonou/).
