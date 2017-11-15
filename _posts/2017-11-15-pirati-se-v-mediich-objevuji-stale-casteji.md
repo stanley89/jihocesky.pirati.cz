@@ -27,3 +27,4 @@ V jihočeských médiích se o Pirátech psalo za
 posledních 30 dní 48 krát. Například vyšly články s pirátským lídrem a poslancem
 Lukášem Koláříkem, které naleznete v MF DNES a 5plus2 nebo rozhovor
 s Pirátem Martinem Kákonou na portálu [Jižní Čechy Teď](http://www.jcted.cz/taborsko/povolebni-ozveny-dnes-s-piratem-martinem-kakonou/). 
+
