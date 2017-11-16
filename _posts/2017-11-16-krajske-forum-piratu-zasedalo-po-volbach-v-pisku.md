@@ -38,3 +38,4 @@ Na závěr se hovoří o mediálních tématech, například MHD a parkování
 v centru Českých Budějovic a problematice toulavých koček.  Padne návrh navštívit pirátské vedení radnice
 v Mariánských lázních a podělit se o zkušenosti z tamní radnice.
 Plánuje se také Piratecon se zaměřením na komunální volby.
+
