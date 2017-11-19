@@ -72,3 +72,4 @@ Jako problém vidím i to, že linku MHD 24 vedoucí na náměstí navrhoval čl
 magistrátu, který si spoj ze záchytného parkoviště Jírovcova plánoval pouze
 podle svých časových možností a nikoliv podle potřeb lidí, kteří dojíždí do Budějovic
 třeba i na třísměnné směny,“ uzavírá Pavel Šramhauser.
+
