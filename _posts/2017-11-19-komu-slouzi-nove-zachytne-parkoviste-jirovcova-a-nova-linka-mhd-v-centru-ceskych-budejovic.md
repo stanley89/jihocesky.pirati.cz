@@ -73,3 +73,4 @@ magistrátu, který si spoj ze záchytného parkoviště Jírovcova plánoval po
 podle svých časových možností a nikoliv podle potřeb lidí, kteří dojíždí do Budějovic
 třeba i na třísměnné směny,“ uzavírá Pavel Šramhauser.
 
+
