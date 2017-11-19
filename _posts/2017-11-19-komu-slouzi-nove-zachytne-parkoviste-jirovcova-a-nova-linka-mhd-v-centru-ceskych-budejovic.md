@@ -74,3 +74,4 @@ podle svých časových možností a nikoliv podle potřeb lidí, kteří dojí�
 třeba i na třísměnné směny,“ uzavírá Pavel Šramhauser.
 
 
+
