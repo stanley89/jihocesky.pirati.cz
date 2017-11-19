@@ -19,13 +19,13 @@ nemohou či nechtějí parkovat v parkovacích zónách a parkují v těch
 Parkovací zóny, které nejsou ani do dnešního dne všechny vyznačené. Nově
 zavedená MHD linka č.24 nepokrývá časy, které by mohli využívat pracující na
 směny. To je jen zlomek problémů s parkováním a veřejnou hromadnou
-dopravou v krajské metropoli, na něž upozorňují Budějovičtí Piráti. 
+dopravou v krajské metropoli, na něž upozorňují Budějovičtí Piráti.
 
 Centrum
 přeplněné auty je těžko řešitelné téma v řadě měst. „Velkou vinu dle mého
 nese magistrát města – nevybudoval již dříve dostatek dostupných záchytných
 parkovišť, naopak podporuje výstavbu soukromých – například zahájení výstavby
-Bosch parkoviště, případně již stojící **[City Green park](http://www.cbparkhaus.cz/parkovani/) **u vazební
+Bosch parkoviště, případně již stojící [City Green park](http://www.cbparkhaus.cz/parkovani/) u vazební
 věznice. Tam ale parkování pro někoho, kdo přijede do práce, stojí první hodinu
 30 korun a následující hodiny 25 korun za hodinu. To by člověk musel dělat
 nevím za kolik, aby se mu to vyplatilo,“ tvrdí budějovický Pirát Pavel Šramhauser.
@@ -39,7 +39,7 @@ parkoviště. Budou u fotbalového stadionu Dynamo, u sportovní haly a na Dlouh
 louce. V prvních dvou případech si lidé zaplatí za první hodinu 5
 korun, za další čtyři hodiny 10 korun a od 4 do 14 hodin vyjde parkování na 20
 korun. U sportovní haly a na Dlouhé louce si lidé zaplatí za stejné časy 10, 20
-a 40 korun. 
+a 40 korun.
 
 Budějovický
 magistrát se situaci pokouší alespoň částečně řešit zmiňovaným záchytným
