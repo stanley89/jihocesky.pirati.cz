@@ -5,7 +5,7 @@ title: >-
   Volební výsledky – Piráti na Táborsku vybojovali 11,29 % a volilo je 5 897
   lidí
 date: 2017-11-30T21:46:38.649Z
-author: Zbyněk KOnvička
+author: Zbyněk Konvička
 image: /assets/img/posts/Tábor graf.JPG
 description: výsledky voleb
 tags: Tabor
