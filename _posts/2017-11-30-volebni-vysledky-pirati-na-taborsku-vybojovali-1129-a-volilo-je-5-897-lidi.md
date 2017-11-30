@@ -43,3 +43,4 @@ Piráty, další menší sídla se rozhodně nenechali zahanbit.
 
 Podrobné výsledky na [volby.cz](https://www.volby.cz)
 
+
