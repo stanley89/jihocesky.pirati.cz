@@ -10,9 +10,8 @@ image: /assets/img/posts/Tábor graf.JPG
 description: výsledky voleb
 tags: Tabor
 ---
-*Dalším
+Dalším
 bývalým okresem Jihočeského kraje, kde Piráti měli slušný výsledek, je Táborsko.
-*
 
 Táborsko jednoznačně táhla „táborská aglomerace“ –
 souměstí Tábor-Sezimovo Ústí-Planá nad Lužnicí. Ve všech třech městech se
@@ -33,13 +32,13 @@ Na více než 12 % hlasů dosáhli Piráti v 35
 obcích a ve čtyřech dokonce zvítězili. Jako druzí se pak umístili ve 20 obcích.
 Ve třech obcích se dostali dokonce nad 20 % a dá se říci, že to byly pirátské
 bašty. Vůbec nejlepší výsledek měli Piráti v obci Rodná, kde získali
-neuvěřitelných 26,77 % hlasů. 
+neuvěřitelných 26,77 % hlasů.
 
 Výsledky na Táborsku byly velmi rovnoměrně
 rozloženy, ač hlavní sílu měla, jak bylo řečeno táborská aglomerace, kde Piráty
 volilo téměř 3 tisíce voličů, což je skoro polovina všech, co hlasovali pro
-Piráty, další menší sídla se rozhodně nenechali zahanbit.  
+Piráty, další menší sídla se rozhodně nenechali zahanbit.
 
 ![null](/assets/img/posts/Tábor tabulka.JPG)
 
-
+Podrobné výsledky na [volby.cz](https://www.volby.cz)
