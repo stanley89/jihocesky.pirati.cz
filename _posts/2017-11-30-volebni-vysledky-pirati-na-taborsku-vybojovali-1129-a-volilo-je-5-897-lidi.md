@@ -42,3 +42,4 @@ Piráty, další menší sídla se rozhodně nenechali zahanbit.
 ![null](/assets/img/posts/Tábor tabulka.JPG)
 
 Podrobné výsledky na [volby.cz](https://www.volby.cz)
+
