@@ -25,3 +25,4 @@ Srdečně zvou Piráti Písecko
 [www.dolnibrezany.cz](https://www.dolnibrezany.cz)
 
 [www.piratipisecko.cz](https://www.piratipisecko.cz)
+
