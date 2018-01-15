@@ -8,6 +8,8 @@ image: /assets/img/posts/lukáš web.jpg
 description: 'Piráti, Lukáš Kolářík'
 tags: 'Piratska strana, Lukas Kolarik'
 ---
+Během hektických dnů při jednání poslanecké sněmovny o důvěře vládě a vydání poslanců hnutí ANO 2011 Andreje Babiše a Jaroslava Faltýnka, současně práci v poslaneckých výborech a v krajském sdružení Pirátů si jihočeský předseda a poslanec Lukáš Kolářík našel čas ohlédnout se za úspěšným loňským rokem a prvními měsíci svého působení v poslanecké sněmovně. 
+
 **Jak jsi prožíval minulý rok z pohledu krajského předsedy Pirátů?**
 
 Minulý rok pro mě uběhl jako voda, bylo pořád co dělat. Již začátkem roku jsme s ostatními členy Pirátů začali připravovat volební kampaň. Na přelomu května a června jsem byl krajským sdružením zvolen lídrem kandidátky v primárních volbách. Pak dostali věci spád. Spolupráce na tvorbě programu, jeho připomínkování a studium. Probíhala různá mediální školení a setkání volebního štábu, samotná kampaň a do toho samozřejmě jsem jako OSVČ dělal věci, které živí mě a mou početnou rodinu. Byl to takový zajímavý koktejl činností a na odpočívání moc času nebylo. Uteklo to rychle. Potkal jsem však spousty nových sympatických lidí. Byl to rovněž rok plný změn. 
