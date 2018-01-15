@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Lukáš Kolářík bilancuje minulý rok a přibližuje práci v poslanecké sněmovně'
+title: Lukáš Kolářík bilancuje minulý rok a přibližuje práci v poslanecké sněmovně
 date: '2018-01-15 03:24pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/lukáš web.jpg
@@ -16,8 +16,7 @@ __Jak jsi prožíval minulý rok z pohledu krajského předsedy Pirátů?__
 
 Minulý rok pro mě uběhl jako voda, bylo pořád co dělat. Již začátkem roku jsme s ostatními členy Pirátů začali připravovat volební kampaň. Na přelomu května a června jsem byl krajským sdružením zvolen lídrem kandidátky v primárních volbách. Pak dostali věci spád. Spolupráce na tvorbě programu, jeho připomínkování a studium. Probíhala různá mediální školení a setkání volebního štábu, samotná kampaň a do toho samozřejmě jsem jako OSVČ dělal věci, které živí mě a mou početnou rodinu. Byl to takový zajímavý koktejl činností a na odpočívání moc času nebylo. Uteklo to rychle. Potkal jsem však spousty nových sympatických lidí. Byl to rovněž rok plný změn. 
 
-**Byl to také rok dosud nejsofistikovanější pirátské kampaně, který přinesl své ovoce – volební zisk téměř 11 % a 22 pirátských poslanců. Mohl by ses ohlédnout za kampaní v Jihočeském kraji? Co se povedlo a co bys viděl dělat ještě jinak?
-**
+#### Byl to také rok dosud nejsofistikovanější pirátské kampaně, který přinesl své ovoce – volební zisk téměř 11 % a 22 pirátských poslanců. Mohl by ses ohlédnout za kampaní v Jihočeském kraji? Co se povedlo a co bys viděl dělat ještě jinak?
 
 Ano, to je pravda, ke všem těm činnostem ještě musíme přidat kampaň, která byla letos opravdu povedená. Z pozice krajského předsedy jsem zastával funkci krajského volebního manažera. Společně s koordinátorem a dalšími lidmi jsme plánovali strukturu kampaně, různé akce, distribuci Pirátských listů, kterých jsme dobrovolnicky rozdali téměř 70 tisíc, focení kandidátů, koncerty, outdoorovou kampaň, happening na Střeleckém ostrově v Českých Budějovicích, tour vězeňským autobusem a spousty dalších drobností, které ve finále opravdu vedly k úspěšnému cíli. Poslední měsíc kampaně byl opravdu hektický, objížděl jsem jihočeská města, mluvil s lidmi, se stoupajícími průzkumy přišel i zájem médií a můj první živý výstup v České televizi. Podařilo se nám také do kampaně zapojit spoustu dobrovolníků, kteří svá obydlí a ploty vyzdobili našimi bannery, pomáhali nám rozdávat listy a posílali nám drobné dary. Myslím, že se povedlo všechno. Na to s jakým rozpočtem jsme pracovali, jsme si vedli opravdu dobře. V poslední fázi počítání výsledku jsme bohužel přišli o další mandát pro Oldu Mácu. To byl takový smutný moment kampaně, Olda je kvalitní kandidát a uteklo to opravdu jen o desítky hlasů. 
 
