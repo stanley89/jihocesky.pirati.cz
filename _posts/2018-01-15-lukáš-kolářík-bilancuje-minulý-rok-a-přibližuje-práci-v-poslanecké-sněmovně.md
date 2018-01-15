@@ -5,8 +5,10 @@ title: 'Lukáš Kolářík bilancuje minulý rok a přibližuje práci v poslane
 date: '2018-01-15 03:24pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/lukáš web.jpg
-description: 'Piráti, Lukáš Kolářík'
-tags: 'Piratska strana, Lukas Kolarik'
+description: >-
+  Piráti, Lukáš Kolářík bilancuje minulý rok a přibližuje práci v poslanecké
+  sněmovně
+tags: 'piráti,bilancování,sněmovna,Kolarik'
 ---
 Během hektických dnů při jednání poslanecké sněmovny o důvěře vládě a vydání poslanců hnutí ANO 2011 Andreje Babiše a Jaroslava Faltýnka, současně práci v poslaneckých výborech a v krajském sdružení Pirátů si jihočeský předseda a poslanec Lukáš Kolářík našel čas ohlédnout se za úspěšným loňským rokem a prvními měsíci svého působení v poslanecké sněmovně. 
 
