@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: false
 title: Lukáš Kolářík bilancuje minulý rok a přibližuje práci v poslanecké sněmovně
-date: '2018-01-16 12:00am'
+date: '2018-01-16 08:55pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/lukáš web.jpg
 description: >-
