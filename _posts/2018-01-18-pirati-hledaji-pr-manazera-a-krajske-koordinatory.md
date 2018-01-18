@@ -21,6 +21,6 @@ Nabízíme odměnu 45 až 56 000 korun měsíčně na IČO (část odměny bude 
 
 Hledáme kolegu/kolegyni na pozici krajský koordinátor ve všech krajích. Náplň vaší práce bude neobyčejně pestrá. Budete pracovat s dobrovolníky, pořádat akce, plánovat místní volební kampaně, vytipovávat další subjekty vhodné ke spolupráci. Budete vést krajskou administrativu. A řadu dalších kreativních činností zadanými krajským předsednictvem či celostátním vedením strany.
 
-Nabízíme smlouvu na dobru neurčitou a odměnu 20-25 000 korun měsíčně na IČO + odměnu dle kvality a náročnosti splněných úkolů. Možnost podílet se na smysluplné a transparentní politice  s bezprostředním podílem na realizaci Pirátského programu. Součástí smlouvy jsou školení ke všem uvedeným činnostem. V této pozici máte velkou možnost seberealizace a zapojení vlastní kreativity. Získáte neomezený telefonní tarif s internetem.
+Nabízíme smlouvu na dobu neurčitou a odměnu 20-25 000 korun měsíčně na IČO + odměnu dle kvality a náročnosti splněných úkolů. Možnost podílet se na smysluplné a transparentní politice  s bezprostředním podílem na realizaci Pirátského programu. Součástí smlouvy jsou školení ke všem uvedeným činnostem. V této pozici máte velkou možnost seberealizace a zapojení vlastní kreativity. Získáte neomezený telefonní tarif s internetem.
 
 Do výběrového řízení se můžete přihlásit přes [tento formulář](https://airtable.com/shrlaQnuRzXUbf3KP).
