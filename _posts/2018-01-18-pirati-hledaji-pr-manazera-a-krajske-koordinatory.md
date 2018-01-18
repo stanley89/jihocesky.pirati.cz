@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Piráti hledají PR manažera a krajské koordinátory
-date: '2018-01-18 11:27am'
+date: '2018-01-18 11:27pm'
 author: Zbyněk Konvička
 image: /assets/img/posts/infografika.png
 description: 'Piráti, krajský koordinátor, PR manažer'
