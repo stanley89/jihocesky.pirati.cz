@@ -15,7 +15,7 @@ Pirátská strana vyhlašuje veřejná výběrová řízení na pozici PR manaž
 
 Tato pozice vám umožní každodenní styk s politickými i mediálními elitami. Budete řídit mediální komunikaci strany a poslaneckého klubu směrem k veřejnosti a médiím. Vaším úkolem bude vyhledávat a zpracovávat zajímavá témata pro mediální výstupy. Budete řídit tým PR pracovníků, grafiků, analytiků, rešeršistů a dalších spolupracovníků. Čeká vás rovněž příprava představitelů strany ve věci mediálního vystupování. Spolupracovat budete s mediálním odborem, manažerem sociálních sítí a volebním štábem. A budete se věnovat dalším atraktivním činnostem.
 
-Nabízíme odměnu 45 až 56 000 korun měsíčně na IČO (část odměny bude hrazena z rozpočtu poslaneckého klubu, kde je živnostenský list podmínkou Sněmovny). Bližší informace o pozici naleznete v příloze. Do výběrového řízení se můžete přihlásit přes [tento formulář](https://airtable.com/shrmvAqKj7gPe46ec).
+Nabízíme odměnu 45 až 56 000 korun měsíčně na IČO (část odměny bude hrazena z rozpočtu poslaneckého klubu, kde je živnostenský list podmínkou Sněmovny). Do výběrového řízení se můžete přihlásit přes [tento formulář](https://airtable.com/shrmvAqKj7gPe46ec).
 
 ### Krajští koordinátoři
 
@@ -23,4 +23,4 @@ Hledáme kolegu/kolegyni na pozici krajský koordinátor ve všech krajích. Ná
 
 Nabízíme smlouvu na dobru neurčitou a odměnu 20-25 000 korun měsíčně na IČO + odměnu dle kvality a náročnosti splněných úkolů. Možnost podílet se na smysluplné a transparentní politice  s bezprostředním podílem na realizaci Pirátského programu. Součástí smlouvy jsou školení ke všem uvedeným činnostem. V této pozici máte velkou možnost seberealizace a zapojení vlastní kreativity. Získáte neomezený telefonní tarif s internetem.
 
-Bližší informace o pozici naleznete v příloze. Do výběrového řízení se můžete přihlásit přes [tento formulář](https://airtable.com/shrlaQnuRzXUbf3KP).
+Do výběrového řízení se můžete přihlásit přes [tento formulář](https://airtable.com/shrlaQnuRzXUbf3KP).
